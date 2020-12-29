@@ -1,1 +1,1978 @@
 #EXTM3U tvg-shift=3
+#EXTINF:-1 tvg-id="id1" tvg-name="Data 29/12/2020" tvg-logo="" tvg-chno="1" group-title="Atualização 29/12/2020",Data 29/12/2020
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8;
+#EXTINF:-1 tvg-id="id2" tvg-name="TV Campus UFSM" tvg-logo="" tvg-chno="2" group-title="TV Aberta",TV Campus UFSM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://200.18.45.14/hls-live/livepkgr/_definst_/videos.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id3" tvg-name="Lagoa TV" tvg-logo="" tvg-chno="3" group-title="TV Aberta",Lagoa TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://v5.ciclano.io:1443/lagoatv/lagoatv/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id4" tvg-name="Canal Saúde RJ" tvg-logo="" tvg-chno="4" group-title="TV Aberta",Canal Saúde RJ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gbbrlive2.sambatech.com.br/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id5" tvg-name="Canal Saúde RS" tvg-logo="" tvg-chno="5" group-title="TV Aberta",Canal Saúde RS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://shflash.directradios.com:1935/furgtv/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id6" tvg-name="SESC TV" tvg-logo="" tvg-chno="6" group-title="TV Aberta",SESC TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id7" tvg-name="SEC TV" tvg-logo="" tvg-chno="7" group-title="TV Aberta",SEC TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id8" tvg-name="UFG TV" tvg-logo="" tvg-chno="8" group-title="TV Aberta",UFG TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id9" tvg-name="TV Urbana" tvg-logo="" tvg-chno="9" group-title="TV Aberta",TV Urbana
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv9.zoeweb.tv:1935/zw923/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id10" tvg-name="TV Meio Norte" tvg-logo="" tvg-chno="10" group-title="TV Aberta",TV Meio Norte
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id11" tvg-name="TVU Recife" tvg-logo="" tvg-chno="11" group-title="TV Aberta",TVU Recife
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://150.161.93.173/hls/720/index.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id12" tvg-name="TV Maceió" tvg-logo="" tvg-chno="12" group-title="TV Aberta",TV Maceió
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id13" tvg-name="TV Mossoró" tvg-logo="" tvg-chno="13" group-title="TV Aberta",TV Mossoró
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video01.kshost.com.br/sadrak91749/sadrak91749/playlist.m3u8;
+#EXTINF:-1 tvg-id="id14" tvg-name="TV FAAP" tvg-logo="" tvg-chno="14" group-title="TV Aberta",TV FAAP
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id15" tvg-name="TV Medicina & Saúde" tvg-logo="" tvg-chno="15" group-title="TV Aberta",TV Medicina & Saúde
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://rtmp.cdn.upx.net.br:1935/7dcb/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id16" tvg-name="TV INES" tvg-logo="" tvg-chno="16" group-title="TV Aberta",TV INES
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id17" tvg-name="TV INES HD" tvg-logo="" tvg-chno="17" group-title="TV Aberta",TV INES HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id18" tvg-name="TV Diário do Sertão" tvg-logo="" tvg-chno="18" group-title="TV Aberta",TV Diário do Sertão
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id19" tvg-name="Rede Familia" tvg-logo="" tvg-chno="19" group-title="TV Aberta",Rede Familia
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id20" tvg-name="Agro Brasil" tvg-logo="" tvg-chno="20" group-title="TV Aberta",Agro Brasil
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id21" tvg-name="Novo Canal" tvg-logo="" tvg-chno="21" group-title="TV Aberta",Novo Canal
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id22" tvg-name="Agro Canal" tvg-logo="" tvg-chno="22" group-title="TV Aberta",Agro Canal
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id23" tvg-name="Conexão BR" tvg-logo="" tvg-chno="23" group-title="TV Aberta",Conexão BR
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id24" tvg-name="Canal do Boi" tvg-logo="" tvg-chno="24" group-title="TV Aberta",Canal do Boi
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id25" tvg-name="Canal Rural" tvg-logo="" tvg-chno="25" group-title="TV Aberta",Canal Rural
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id26" tvg-name="Canal Rural X" tvg-logo="" tvg-chno="26" group-title="TV Aberta",Canal Rural X
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id27" tvg-name="Amazon Sat" tvg-logo="" tvg-chno="27" group-title="TV Aberta",Amazon Sat
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id28" tvg-name="TV Gazeta (SP)" tvg-logo="" tvg-chno="28" group-title="TV Aberta",TV Gazeta (SP)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8;
+#EXTINF:-1 tvg-id="id29" tvg-name="TV Gazeta SP HD" tvg-logo="" tvg-chno="29" group-title="TV Aberta",TV Gazeta SP HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id30" tvg-name="TV Gazeta RN" tvg-logo="" tvg-chno="30" group-title="TV Aberta",TV Gazeta RN
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id31" tvg-name="TV Gazeta MA" tvg-logo="" tvg-chno="31" group-title="TV Aberta",TV Gazeta MA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id32" tvg-name="TV Diário" tvg-logo="" tvg-chno="32" group-title="TV Aberta",TV Diário
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id33" tvg-name="BAND" tvg-logo="" tvg-chno="33" group-title="TV Aberta",BAND
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/38.m3u8;
+#EXTINF:-1 tvg-id="id34" tvg-name="BAND *" tvg-logo="" tvg-chno="34" group-title="TV Aberta",BAND *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/42.m3u8;
+#EXTINF:-1 tvg-id="id35" tvg-name="GLOBO BAHIA" tvg-logo="" tvg-chno="35" group-title="TV Aberta",GLOBO BAHIA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/296.m3u8;
+#EXTINF:-1 tvg-id="id36" tvg-name="GLOBO BELEM" tvg-logo="" tvg-chno="36" group-title="TV Aberta",GLOBO BELEM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/297.m3u8;
+#EXTINF:-1 tvg-id="id37" tvg-name="GLOBO BOA VISTA" tvg-logo="" tvg-chno="37" group-title="TV Aberta",GLOBO BOA VISTA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/299.m3u8;
+#EXTINF:-1 tvg-id="id38" tvg-name="GLOBO BRASILIA²" tvg-logo="" tvg-chno="38" group-title="TV Aberta",GLOBO BRASILIA²
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/303.m3u8;
+#EXTINF:-1 tvg-id="id39" tvg-name="GLOBO CEARÁ" tvg-logo="" tvg-chno="39" group-title="TV Aberta",GLOBO CEARÁ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/305.m3u8;
+#EXTINF:-1 tvg-id="id40" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="" tvg-chno="40" group-title="TV Aberta",GLOBO EPTV CAMPINAS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/307.m3u8;
+#EXTINF:-1 tvg-id="id41" tvg-name="GLOBO EPTV CAMPINAS SD*" tvg-logo="" tvg-chno="41" group-title="TV Aberta",GLOBO EPTV CAMPINAS SD*
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/309.m3u8;
+#EXTINF:-1 tvg-id="id42" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD*" tvg-logo="" tvg-chno="42" group-title="TV Aberta",GLOBO EPTV RIBEIRÃO PRETO SD*
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/310.m3u8;
+#EXTINF:-1 tvg-id="id43" tvg-name="GLOBO EPTV SAO CARLOS *" tvg-logo="" tvg-chno="43" group-title="TV Aberta",GLOBO EPTV SAO CARLOS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/311.m3u8;
+#EXTINF:-1 tvg-id="id44" tvg-name="GLOBO GOIANIA" tvg-logo="" tvg-chno="44" group-title="TV Aberta",GLOBO GOIANIA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/314.m3u8;
+#EXTINF:-1 tvg-id="id45" tvg-name="GLOBO INTER TV CABUGI *" tvg-logo="" tvg-chno="45" group-title="TV Aberta",GLOBO INTER TV CABUGI *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/316.m3u8;
+#EXTINF:-1 tvg-id="id46" tvg-name="GLOBO MACAPA" tvg-logo="" tvg-chno="46" group-title="TV Aberta",GLOBO MACAPA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/317.m3u8;
+#EXTINF:-1 tvg-id="id47" tvg-name="GLOBO MINAS²" tvg-logo="" tvg-chno="47" group-title="TV Aberta",GLOBO MINAS²
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/320.m3u8;
+#EXTINF:-1 tvg-id="id48" tvg-name="GLOBO NATAL" tvg-logo="" tvg-chno="48" group-title="TV Aberta",GLOBO NATAL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/321.m3u8;
+#EXTINF:-1 tvg-id="id49" tvg-name="GLOBO NORDESTE SD*" tvg-logo="" tvg-chno="49" group-title="TV Aberta",GLOBO NORDESTE SD*
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/331.m3u8;
+#EXTINF:-1 tvg-id="id50" tvg-name="GLOBO PORTO VELHO" tvg-logo="" tvg-chno="50" group-title="TV Aberta",GLOBO PORTO VELHO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/332.m3u8;
+#EXTINF:-1 tvg-id="id51" tvg-name="GLOBO RBS PORTO ALEGRE *" tvg-logo="" tvg-chno="51" group-title="TV Aberta",GLOBO RBS PORTO ALEGRE *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/334.m3u8;
+#EXTINF:-1 tvg-id="id52" tvg-name="GLOBO RECIFE" tvg-logo="" tvg-chno="52" group-title="TV Aberta",GLOBO RECIFE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/336.m3u8;
+#EXTINF:-1 tvg-id="id53" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="" tvg-chno="53" group-title="TV Aberta",GLOBO REDE AMAZONICA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/338.m3u8;
+#EXTINF:-1 tvg-id="id54" tvg-name="GLOBO RIO" tvg-logo="" tvg-chno="54" group-title="TV Aberta",GLOBO RIO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/340.m3u8;
+#EXTINF:-1 tvg-id="id55" tvg-name="GLOBO ACRE" tvg-logo="" tvg-chno="55" group-title="TV Aberta",GLOBO ACRE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/341.m3u8;
+#EXTINF:-1 tvg-id="id56" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="" tvg-chno="56" group-title="TV Aberta",GLOBO RIO GRANDE DO SUL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/343.m3u8;
+#EXTINF:-1 tvg-id="id57" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="" tvg-chno="57" group-title="TV Aberta",GLOBO RPC TV CURITIBA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/347.m3u8;
+#EXTINF:-1 tvg-id="id58" tvg-name="GLOBO SJRP *" tvg-logo="" tvg-chno="58" group-title="TV Aberta",GLOBO SJRP *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/348.m3u8;
+#EXTINF:-1 tvg-id="id59" tvg-name="GLOBO SP" tvg-logo="" tvg-chno="59" group-title="TV Aberta",GLOBO SP
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/349.m3u8;
+#EXTINF:-1 tvg-id="id60" tvg-name="GLOBO SP DUAL" tvg-logo="" tvg-chno="60" group-title="TV Aberta",GLOBO SP DUAL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/350.m3u8;
+#EXTINF:-1 tvg-id="id61" tvg-name="GLOBO TV ANHANGUERA GOIANIA *" tvg-logo="" tvg-chno="61" group-title="TV Aberta",GLOBO TV ANHANGUERA GOIANIA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/355.m3u8;
+#EXTINF:-1 tvg-id="id62" tvg-name="GLOBO TV BAHIA *" tvg-logo="" tvg-chno="62" group-title="TV Aberta",GLOBO TV BAHIA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/356.m3u8;
+#EXTINF:-1 tvg-id="id63" tvg-name="GLOBO TV CENTRO AMÉRICA CUIBÁ *" tvg-logo="" tvg-chno="63" group-title="TV Aberta",GLOBO TV CENTRO AMÉRICA CUIBÁ *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/357.m3u8;
+#EXTINF:-1 tvg-id="id64" tvg-name="GLOBO TV LIBERAL BELEM *" tvg-logo="" tvg-chno="64" group-title="TV Aberta",GLOBO TV LIBERAL BELEM *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/358.m3u8;
+#EXTINF:-1 tvg-id="id65" tvg-name="GLOBO TV RIO SUL" tvg-logo="" tvg-chno="65" group-title="TV Aberta",GLOBO TV RIO SUL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/359.m3u8;
+#EXTINF:-1 tvg-id="id66" tvg-name="GLOBO TV TEM BAURU *" tvg-logo="" tvg-chno="66" group-title="TV Aberta",GLOBO TV TEM BAURU *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/360.m3u8;
+#EXTINF:-1 tvg-id="id67" tvg-name="GLOBO TV TEM SOROCABA *" tvg-logo="" tvg-chno="67" group-title="TV Aberta",GLOBO TV TEM SOROCABA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/361.m3u8;
+#EXTINF:-1 tvg-id="id68" tvg-name="GLOBO TV TRIBUNA SANTOS SD *" tvg-logo="" tvg-chno="68" group-title="TV Aberta",GLOBO TV TRIBUNA SANTOS SD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/362.m3u8;
+#EXTINF:-1 tvg-id="id69" tvg-name="GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *" tvg-logo="" tvg-chno="69" group-title="TV Aberta",GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/363.m3u8;
+#EXTINF:-1 tvg-id="id70" tvg-name="GLOBO TV VERDES MARES FORTALEZA *" tvg-logo="" tvg-chno="70" group-title="TV Aberta",GLOBO TV VERDES MARES FORTALEZA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/364.m3u8;
+#EXTINF:-1 tvg-id="id71" tvg-name="GLOBO VITORIA" tvg-logo="" tvg-chno="71" group-title="TV Aberta",GLOBO VITORIA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/365.m3u8;
+#EXTINF:-1 tvg-id="id72" tvg-name="SBT - TV Jornal (PE)" tvg-logo="" tvg-chno="72" group-title="TV Aberta",SBT - TV Jornal (PE)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8;
+#EXTINF:-1 tvg-id="id73" tvg-name="SBT - TV Jornal Caruaru (PE)" tvg-logo="" tvg-chno="73" group-title="TV Aberta",SBT - TV Jornal Caruaru (PE)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8;
+#EXTINF:-1 tvg-id="id74" tvg-name="SBT - TV Serra Dourada - (GO)" tvg-logo="" tvg-chno="74" group-title="TV Aberta",SBT - TV Serra Dourada - (GO)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1049268288_b796000.m3u8;
+#EXTINF:-1 tvg-id="id75" tvg-name="SBT - TV Cidade Verde - (PI)" tvg-logo="" tvg-chno="75" group-title="TV Aberta",SBT - TV Cidade Verde - (PI)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN;
+#EXTINF:-1 tvg-id="id76" tvg-name="SBT - TV Difusora (MA)" tvg-logo="" tvg-chno="76" group-title="TV Aberta",SBT - TV Difusora (MA)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8;
+#EXTINF:-1 tvg-id="id77" tvg-name="SBT SC" tvg-logo="" tvg-chno="77" group-title="TV Aberta",SBT SC
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8;
+#EXTINF:-1 tvg-id="id78" tvg-name="SBT*" tvg-logo="" tvg-chno="78" group-title="TV Aberta",SBT*
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/605.m3u8;
+#EXTINF:-1 tvg-id="id79" tvg-name="SBT" tvg-logo="" tvg-chno="79" group-title="TV Aberta",SBT
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/607.m3u8;
+#EXTINF:-1 tvg-id="id80" tvg-name="SBT GOIANIA" tvg-logo="" tvg-chno="80" group-title="TV Aberta",SBT GOIANIA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/608.m3u8;
+#EXTINF:-1 tvg-id="id81" tvg-name="SBT HD" tvg-logo="" tvg-chno="81" group-title="TV Aberta",SBT HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8;
+#EXTINF:-1 tvg-id="id82" tvg-name="SBT SP HD" tvg-logo="" tvg-chno="82" group-title="TV Aberta",SBT SP HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?;
+#EXTINF:-1 tvg-id="id83" tvg-name="SBT GO HD 720p" tvg-logo="" tvg-chno="83" group-title="TV Aberta",SBT GO HD 720p
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8;
+#EXTINF:-1 tvg-id="id84" tvg-name="SBT MA" tvg-logo="" tvg-chno="84" group-title="TV Aberta",SBT MA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8;
+#EXTINF:-1 tvg-id="id85" tvg-name="SBT PI" tvg-logo="" tvg-chno="85" group-title="TV Aberta",SBT PI
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id86" tvg-name="SBT RN" tvg-logo="" tvg-chno="86" group-title="TV Aberta",SBT RN
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://mediacenter.tvpontanegra.com.br:1935/live/livestream/playlist.m3u8;
+#EXTINF:-1 tvg-id="id87" tvg-name="SBT PB" tvg-logo="" tvg-chno="87" group-title="TV Aberta",SBT PB
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id88" tvg-name="SBT GO" tvg-logo="" tvg-chno="88" group-title="TV Aberta",SBT GO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id89" tvg-name="SBT PE HD" tvg-logo="" tvg-chno="89" group-title="TV Aberta",SBT PE HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8;
+#EXTINF:-1 tvg-id="id90" tvg-name="SBT PE Interior" tvg-logo="" tvg-chno="90" group-title="TV Aberta",SBT PE Interior
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id91" tvg-name="Rede Brasil" tvg-logo="" tvg-chno="91" group-title="TV Aberta",Rede Brasil
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/playlist.m3u8;
+#EXTINF:-1 tvg-id="id92" tvg-name="Rede Brasil - TV Marajoara (PA)" tvg-logo="" tvg-chno="92" group-title="TV Aberta",Rede Brasil - TV Marajoara (PA)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video01.tvdigitalhd.org/tv31966/tv31966/playlist.m3u8;
+#EXTINF:-1 tvg-id="id93" tvg-name="TV Diário - Ceará" tvg-logo="" tvg-chno="93" group-title="TV Aberta",TV Diário - Ceará
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8;
+#EXTINF:-1 tvg-id="id94" tvg-name="Rede Brasil SP" tvg-logo="" tvg-chno="94" group-title="TV Aberta",Rede Brasil SP
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id95" tvg-name="Rede Brasil DE" tvg-logo="" tvg-chno="95" group-title="TV Aberta",Rede Brasil DE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id96" tvg-name="Rede Brasil DE HD" tvg-logo="" tvg-chno="96" group-title="TV Aberta",Rede Brasil DE HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id97" tvg-name="Rede Brasil PA" tvg-logo="" tvg-chno="97" group-title="TV Aberta",Rede Brasil PA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video01.tvdigitalhd.org:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id98" tvg-name="Rede Brasil SC" tvg-logo="" tvg-chno="98" group-title="TV Aberta",Rede Brasil SC
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id99" tvg-name="TV Brasil" tvg-logo="" tvg-chno="99" group-title="TV Aberta",TV Brasil
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ebctvbrasilgeoblocking.hls.adaptive.level3.net/hls-live/ebcremuxlive-tvbrasilgeoblocking/_definst_/live/stream1.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id100" tvg-name="TV Cultura- TV Itararé (PE)" tvg-logo="" tvg-chno="100" group-title="TV Aberta",TV Cultura- TV Itararé (PE)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://177.73.84.49/hls/live/live.m3u8;
+#EXTINF:-1 tvg-id="id101" tvg-name="TV Cultura - TV Baiana (BA)" tvg-logo="" tvg-chno="101" group-title="TV Aberta",TV Cultura - TV Baiana (BA)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8;
+#EXTINF:-1 tvg-id="id102" tvg-name="TV Cultura - TBC (GO)" tvg-logo="" tvg-chno="102" group-title="TV Aberta",TV Cultura - TBC (GO)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://rsync.com.br:8081/rtsp/tbc/playlist.m3u8;
+#EXTINF:-1 tvg-id="id103" tvg-name="TV Cultura MG" tvg-logo="" tvg-chno="103" group-title="TV Aberta",TV Cultura MG
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id104" tvg-name="TV Cultura PA" tvg-logo="" tvg-chno="104" group-title="TV Aberta",TV Cultura PA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id105" tvg-name="TV Cultura PB HD" tvg-logo="" tvg-chno="105" group-title="TV Aberta",TV Cultura PB HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://177.73.84.49/hls/live/live.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id106" tvg-name="TV Cultura BA" tvg-logo="" tvg-chno="106" group-title="TV Aberta",TV Cultura BA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wz-brasil1.comets.com.br:1935/tvbaiana/aovivo/playlist.m3u8;
+#EXTINF:-1 tvg-id="id107" tvg-name="TV Brusque" tvg-logo="" tvg-chno="107" group-title="TV Aberta",TV Brusque
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wse5.player.tv.br:1935/aovivo1/aovivo1/playlist.m3u8;
+#EXTINF:-1 tvg-id="id108" tvg-name="TV Marajoara - Rede Brasil" tvg-logo="" tvg-chno="108" group-title="TV Aberta",TV Marajoara - Rede Brasil
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video01.tvdigitalhd.org/arian94818/arian94818/playlist.m3u8;
+#EXTINF:-1 tvg-id="id109" tvg-name="TOP TV" tvg-logo="" tvg-chno="109" group-title="TV Aberta",TOP TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8;
+#EXTINF:-1 tvg-id="id110" tvg-name="TV Baiana" tvg-logo="" tvg-chno="110" group-title="TV Aberta",TV Baiana
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8;
+#EXTINF:-1 tvg-id="id111" tvg-name="TV Jornal" tvg-logo="" tvg-chno="111" group-title="TV Aberta",TV Jornal
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8;
+#EXTINF:-1 tvg-id="id112" tvg-name="TV Jornal - Caruaru" tvg-logo="" tvg-chno="112" group-title="TV Aberta",TV Jornal - Caruaru
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8;
+#EXTINF:-1 tvg-id="id113" tvg-name="TV Serra Dourada" tvg-logo="" tvg-chno="113" group-title="TV Aberta",TV Serra Dourada
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8;
+#EXTINF:-1 tvg-id="id114" tvg-name="TV Tambaú" tvg-logo="" tvg-chno="114" group-title="TV Aberta",TV Tambaú
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8;
+#EXTINF:-1 tvg-id="id115" tvg-name="TV Futura" tvg-logo="" tvg-chno="115" group-title="TV Aberta",TV Futura
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://177.67.253.55:8080/stream.flv?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id116" tvg-name="TV futura HD" tvg-logo="" tvg-chno="116" group-title="TV Aberta",TV futura HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?;
+#EXTINF:-1 tvg-id="id117" tvg-name="TV Futura RS" tvg-logo="" tvg-chno="117" group-title="TV Aberta",TV Futura RS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id118" tvg-name="TV Futura RJ HD" tvg-logo="" tvg-chno="118" group-title="TV Aberta",TV Futura RJ HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id119" tvg-name="REDE VIDA" tvg-logo="" tvg-chno="119" group-title="TV Aberta",REDE VIDA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8;
+#EXTINF:-1 tvg-id="id120" tvg-name="RECORD" tvg-logo="" tvg-chno="120" group-title="TV Aberta",RECORD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/573.m3u8;
+#EXTINF:-1 tvg-id="id121" tvg-name="RECORD *" tvg-logo="" tvg-chno="121" group-title="TV Aberta",RECORD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/574.m3u8;
+#EXTINF:-1 tvg-id="id122" tvg-name="RECORD BAHIA *" tvg-logo="" tvg-chno="122" group-title="TV Aberta",RECORD BAHIA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/575.m3u8;
+#EXTINF:-1 tvg-id="id123" tvg-name="RECORD BAHIA HD" tvg-logo="" tvg-chno="123" group-title="TV Aberta",RECORD BAHIA HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/576.m3u8;
+#EXTINF:-1 tvg-id="id124" tvg-name="RECORD BELEM" tvg-logo="" tvg-chno="124" group-title="TV Aberta",RECORD BELEM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/577.m3u8;
+#EXTINF:-1 tvg-id="id125" tvg-name="RECORD BRASILIA *" tvg-logo="" tvg-chno="125" group-title="TV Aberta",RECORD BRASILIA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/578.m3u8;
+#EXTINF:-1 tvg-id="id126" tvg-name="RECORD BRASILIA HD" tvg-logo="" tvg-chno="126" group-title="TV Aberta",RECORD BRASILIA HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/579.m3u8;
+#EXTINF:-1 tvg-id="id127" tvg-name="RECORD FHD H265" tvg-logo="" tvg-chno="127" group-title="TV Aberta",RECORD FHD H265
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/580.m3u8;
+#EXTINF:-1 tvg-id="id128" tvg-name="RECORD GOIAS" tvg-logo="" tvg-chno="128" group-title="TV Aberta",RECORD GOIAS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/581.m3u8;
+#EXTINF:-1 tvg-id="id129" tvg-name="RECORD HD" tvg-logo="" tvg-chno="129" group-title="TV Aberta",RECORD HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/582.m3u8;
+#EXTINF:-1 tvg-id="id130" tvg-name="Record - TV Gazeta (MT)" tvg-logo="" tvg-chno="130" group-title="TV Aberta",Record - TV Gazeta (MT)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id131" tvg-name="RECORD SC HD" tvg-logo="" tvg-chno="131" group-title="TV Aberta",RECORD SC HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://ricmais.com.br/sc/streaming/show/ric_src.m3u8;
+#EXTINF:-1 tvg-id="id132" tvg-name="TV Cultura" tvg-logo="" tvg-chno="132" group-title="TV Aberta",TV Cultura
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming03.zas.media:1935/panorama/panorama/chunklist_w1636289751.m3u8;
+#EXTINF:-1 tvg-id="id133" tvg-name="RedeTV! (SP)" tvg-logo="" tvg-chno="133" group-title="TV Aberta",RedeTV! (SP)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8;
+#EXTINF:-1 tvg-id="id134" tvg-name="RedeTV! - TV Arapuan (PB)" tvg-logo="" tvg-chno="134" group-title="TV Aberta",RedeTV! - TV Arapuan (PB)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://v5.ciclano.io:1443/8064/8064/playlist.m3u8;
+#EXTINF:-1 tvg-id="id135" tvg-name="RedeTV! TV - Rondônia (RO)" tvg-logo="" tvg-chno="135" group-title="TV Aberta",RedeTV! TV - Rondônia (RO)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8;
+#EXTINF:-1 tvg-id="id136" tvg-name="Rede TV SP (Alternativo)" tvg-logo="" tvg-chno="136" group-title="TV Aberta",Rede TV SP (Alternativo)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8;
+#EXTINF:-1 tvg-id="id137" tvg-name="Rede TV RJ" tvg-logo="" tvg-chno="137" group-title="TV Aberta",Rede TV RJ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8;
+#EXTINF:-1 tvg-id="id138" tvg-name="Rede TV PB" tvg-logo="" tvg-chno="138" group-title="TV Aberta",Rede TV PB
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://59f2354c05961.streamlock.net:1443/tvarapuan/_definst_/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id139" tvg-name="Rede TV Natal (Tv Feliz)" tvg-logo="" tvg-chno="139" group-title="TV Aberta",Rede TV Natal (Tv Feliz)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://172.93.110.130:1935/retransmissao/retransmissao/playlist.m3u8;
+#EXTINF:-1 tvg-id="id140" tvg-name="Rede TV PR HD" tvg-logo="" tvg-chno="140" group-title="TV Aberta",Rede TV PR HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://108.168.158.146:1935/live/tvsudoeste/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id141" tvg-name="TVE RS" tvg-logo="" tvg-chno="141" group-title="TV Aberta",TVE RS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id142" tvg-name="TVE BA HD" tvg-logo="" tvg-chno="142" group-title="TV Aberta",TVE BA HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id143" tvg-name="TVE Bahia" tvg-logo="" tvg-chno="143" group-title="TV Aberta",TVE Bahia
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8;
+#EXTINF:-1 tvg-id="id144" tvg-name="TV Escola" tvg-logo="" tvg-chno="144" group-title="TV Aberta",TV Escola
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id145" tvg-name="TV Escola HD" tvg-logo="" tvg-chno="145" group-title="TV Aberta",TV Escola HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id146" tvg-name="Terra Viva" tvg-logo="" tvg-chno="146" group-title="TV Aberta",Terra Viva
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id147" tvg-name="NBR" tvg-logo="" tvg-chno="147" group-title="TV Aberta",NBR
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id148" tvg-name="TV Câmara" tvg-logo="" tvg-chno="148" group-title="TV Aberta",TV Câmara
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id149" tvg-name="SEC TV - NGT" tvg-logo="" tvg-chno="149" group-title="TV Aberta",SEC TV - NGT
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8;
+#EXTINF:-1 tvg-id="id150" tvg-name="TV Nova Cidade" tvg-logo="" tvg-chno="150" group-title="TV Aberta",TV Nova Cidade
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream01.msolutionbrasil.com.br/hls/tvcidadenet/live.m3u8;
+#EXTINF:-1 tvg-id="id151" tvg-name="TV Câmara" tvg-logo="" tvg-chno="151" group-title="TV Aberta",TV Câmara
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8;
+#EXTINF:-1 tvg-id="id152" tvg-name="TV Justiça" tvg-logo="" tvg-chno="152" group-title="TV Aberta",TV Justiça
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8;
+#EXTINF:-1 tvg-id="id153" tvg-name="TV Senado (Ocasional)" tvg-logo="" tvg-chno="153" group-title="TV Aberta",TV Senado (Ocasional)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvmpf.mpf.mp.br:1935/event426/event426.stream_480p/playlist.m3u8;
+#EXTINF:-1 tvg-id="id154" tvg-name="TVE-RS" tvg-logo="" tvg-chno="154" group-title="TV Aberta",TVE-RS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8;
+#EXTINF:-1 tvg-id="id155" tvg-name="TV Aperipê" tvg-logo="" tvg-chno="155" group-title="TV Aberta",TV Aperipê
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8;
+#EXTINF:-1 tvg-id="id156" tvg-name="TV União" tvg-logo="" tvg-chno="156" group-title="TV Aberta",TV União
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv1.srvstm.com/tvuniao/tvuniao/playlist.m3u8;
+#EXTINF:-1 tvg-id="id157" tvg-name="Rede Meio Norte" tvg-logo="" tvg-chno="157" group-title="TV Aberta",Rede Meio Norte
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8;
+#EXTINF:-1 tvg-id="id158" tvg-name="TV Metrópole" tvg-logo="" tvg-chno="158" group-title="TV Aberta",TV Metrópole
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8;
+#EXTINF:-1 tvg-id="id159" tvg-name="eParaná" tvg-logo="" tvg-chno="159" group-title="TV Aberta",eParaná
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://200.189.113.201/hls/tve.m3u8;
+#EXTINF:-1 tvg-id="id160" tvg-name="Rede New" tvg-logo="" tvg-chno="160" group-title="TV Aberta",Rede New
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8;
+#EXTINF:-1 tvg-id="id161" tvg-name="TVT" tvg-logo="" tvg-chno="161" group-title="TV Aberta",TVT
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8;
+#EXTINF:-1 tvg-id="id162" tvg-name="TV Miramar" tvg-logo="" tvg-chno="162" group-title="TV Aberta",TV Miramar
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8;
+#EXTINF:-1 tvg-id="id163" tvg-name="Las Estrellas" tvg-logo="" tvg-chno="163" group-title="TV Aberta",Las Estrellas
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8;
+#EXTINF:-1 tvg-id="id164" tvg-name="TV Guarany" tvg-logo="" tvg-chno="164" group-title="TV Aberta",TV Guarany
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8;
+#EXTINF:-1 tvg-id="id165" tvg-name="13:00hs - LALIGA: Sevilla x Villarreal" tvg-logo="" tvg-chno="165" group-title="Futebol Ao Vivo",13:00hs - LALIGA: Sevilla x Villarreal
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/218.m3u8;
+#EXTINF:-1 tvg-id="id166" tvg-name="13:00hs - LALIGA: Sevilla x Villarreal op.2" tvg-logo="" tvg-chno="166" group-title="Futebol Ao Vivo",13:00hs - LALIGA: Sevilla x Villarreal op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/222.m3u8;
+#EXTINF:-1 tvg-id="id167" tvg-name="15:00hs - CAMPEONATO PORTUGUES: Benfica x Portimonense" tvg-logo="" tvg-chno="167" group-title="Futebol Ao Vivo",15:00hs - CAMPEONATO PORTUGUES: Benfica x Portimonense
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/277.m3u8;
+#EXTINF:-1 tvg-id="id168" tvg-name="15:00hs - CAMPEONATO PORTUGUES: Benfica x Portimonense op.2" tvg-logo="" tvg-chno="168" group-title="Futebol Ao Vivo",15:00hs - CAMPEONATO PORTUGUES: Benfica x Portimonense op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/278.m3u8;
+#EXTINF:-1 tvg-id="id169" tvg-name="15:15hs - LALIGA: Barcelona x Eibar" tvg-logo="" tvg-chno="169" group-title="Futebol Ao Vivo",15:15hs - LALIGA: Barcelona x Eibar
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/218.m3u8;
+#EXTINF:-1 tvg-id="id170" tvg-name="15:15hs - LALIGA: Barcelona x Eibar op.2" tvg-logo="" tvg-chno="170" group-title="Futebol Ao Vivo",15:15hs - LALIGA: Barcelona x Eibar op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/222.m3u8;
+#EXTINF:-1 tvg-id="id171" tvg-name="17:00hs - PREMIER LEAGUE: Manchester United x Wolverhampton" tvg-logo="" tvg-chno="171" group-title="Futebol Ao Vivo",17:00hs - PREMIER LEAGUE: Manchester United x Wolverhampton
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/277.m3u8;
+#EXTINF:-1 tvg-id="id172" tvg-name="17:00hs - PREMIER LEAGUE: Manchester United x Wolverhampton op.2" tvg-logo="" tvg-chno="172" group-title="Futebol Ao Vivo",17:00hs - PREMIER LEAGUE: Manchester United x Wolverhampton op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/278.m3u8;
+#EXTINF:-1 tvg-id="id173" tvg-name="18:00hs - CAMPEONATO PORTUGUES: Vitória de Guimarães x Porto" tvg-logo="" tvg-chno="173" group-title="Futebol Ao Vivo",18:00hs - CAMPEONATO PORTUGUES: Vitória de Guimarães x Porto
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/218.m3u8;
+#EXTINF:-1 tvg-id="id174" tvg-name="18:00hs - CAMPEONATO PORTUGUES: Vitória de Guimarães x Porto op.2" tvg-logo="" tvg-chno="174" group-title="Futebol Ao Vivo",18:00hs - CAMPEONATO PORTUGUES: Vitória de Guimarães x Porto op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/222.m3u8;
+#EXTINF:-1 tvg-id="id175" tvg-name="19:15hs - BRASILEIRO SERIE B: Avaí x CRB-AL" tvg-logo="" tvg-chno="175" group-title="Futebol Ao Vivo",19:15hs - BRASILEIRO SERIE B: Avaí x CRB-AL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/563.m3u8;
+#EXTINF:-1 tvg-id="id176" tvg-name="19:15hs - BRASILEIRO SERIE B: Avaí x CRB-AL op.2" tvg-logo="" tvg-chno="176" group-title="Futebol Ao Vivo",19:15hs - BRASILEIRO SERIE B: Avaí x CRB-AL op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/567.m3u8;
+#EXTINF:-1 tvg-id="id177" tvg-name="21:30hs - BRASILEIRO SERIE B: Cruzeiro x Cuiabá" tvg-logo="" tvg-chno="177" group-title="Futebol Ao Vivo",21:30hs - BRASILEIRO SERIE B: Cruzeiro x Cuiabá
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/563.m3u8;
+#EXTINF:-1 tvg-id="id178" tvg-name="21:30hs - BRASILEIRO SERIE B: Cruzeiro x Cuiabá op.2" tvg-logo="" tvg-chno="178" group-title="Futebol Ao Vivo",21:30hs - BRASILEIRO SERIE B: Cruzeiro x Cuiabá op.2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/567.m3u8;
+#EXTINF:-1 tvg-id="id179" tvg-name="Band Sports" tvg-logo="" tvg-chno="179" group-title="Esportes",Band Sports
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/50.m3u8;
+#EXTINF:-1 tvg-id="id180" tvg-name="PREMIERE 2 *" tvg-logo="" tvg-chno="180" group-title="Esportes",PREMIERE 2 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/525.m3u8;
+#EXTINF:-1 tvg-id="id181" tvg-name="PREMIERE 3 *" tvg-logo="" tvg-chno="181" group-title="Esportes",PREMIERE 3 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/531.m3u8;
+#EXTINF:-1 tvg-id="id182" tvg-name="PREMIERE 4 *" tvg-logo="" tvg-chno="182" group-title="Esportes",PREMIERE 4 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/538.m3u8;
+#EXTINF:-1 tvg-id="id183" tvg-name="PREMIERE 5 *" tvg-logo="" tvg-chno="183" group-title="Esportes",PREMIERE 5 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/545.m3u8;
+#EXTINF:-1 tvg-id="id184" tvg-name="PREMIERE 6 *" tvg-logo="" tvg-chno="184" group-title="Esportes",PREMIERE 6 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/551.m3u8;
+#EXTINF:-1 tvg-id="id185" tvg-name="PREMIERE 7 *" tvg-logo="" tvg-chno="185" group-title="Esportes",PREMIERE 7 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/557.m3u8;
+#EXTINF:-1 tvg-id="id186" tvg-name="PREMIERE CLUBES *" tvg-logo="" tvg-chno="186" group-title="Esportes",PREMIERE CLUBES *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/563.m3u8;
+#EXTINF:-1 tvg-id="id187" tvg-name="SPORTV" tvg-logo="" tvg-chno="187" group-title="Esportes",SPORTV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/628.m3u8;
+#EXTINF:-1 tvg-id="id188" tvg-name="SPORTV 2" tvg-logo="" tvg-chno="188" group-title="Esportes",SPORTV 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/629.m3u8;
+#EXTINF:-1 tvg-id="id189" tvg-name="SPORTV 3" tvg-logo="" tvg-chno="189" group-title="Esportes",SPORTV 3
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/635.m3u8;
+#EXTINF:-1 tvg-id="id190" tvg-name="SPORTV 3 HD" tvg-logo="" tvg-chno="190" group-title="Esportes",SPORTV 3 HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/637.m3u8;
+#EXTINF:-1 tvg-id="id191" tvg-name="SPORTV HD" tvg-logo="" tvg-chno="191" group-title="Esportes",SPORTV HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/643.m3u8;
+#EXTINF:-1 tvg-id="id192" tvg-name="ESPN" tvg-logo="" tvg-chno="192" group-title="Esportes",ESPN
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/217.m3u8;
+#EXTINF:-1 tvg-id="id193" tvg-name="ESPN BRASIL" tvg-logo="" tvg-chno="193" group-title="Esportes",ESPN BRASIL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/218.m3u8;
+#EXTINF:-1 tvg-id="id194" tvg-name="ESPN BRASIL HD" tvg-logo="" tvg-chno="194" group-title="Esportes",ESPN BRASIL HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/222.m3u8;
+#EXTINF:-1 tvg-id="id195" tvg-name="ESPN BRASIL²" tvg-logo="" tvg-chno="195" group-title="Esportes",ESPN BRASIL²
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/224.m3u8;
+#EXTINF:-1 tvg-id="id196" tvg-name="ESPN EXTRA" tvg-logo="" tvg-chno="196" group-title="Esportes",ESPN EXTRA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/229.m3u8;
+#EXTINF:-1 tvg-id="id197" tvg-name="ESPN HD" tvg-logo="" tvg-chno="197" group-title="Esportes",ESPN HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/232.m3u8;
+#EXTINF:-1 tvg-id="id198" tvg-name="ESPN2" tvg-logo="" tvg-chno="198" group-title="Esportes",ESPN2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/235.m3u8;
+#EXTINF:-1 tvg-id="id199" tvg-name="FOX SPORTS 2 *" tvg-logo="" tvg-chno="199" group-title="Esportes",FOX SPORTS 2 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/279.m3u8;
+#EXTINF:-1 tvg-id="id200" tvg-name="FOX SPORTS *" tvg-logo="" tvg-chno="200" group-title="Esportes",FOX SPORTS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/277.m3u8;
+#EXTINF:-1 tvg-id="id201" tvg-name="COMBATE *" tvg-logo="" tvg-chno="201" group-title="Esportes",COMBATE *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/111.m3u8;
+#EXTINF:-1 tvg-id="id202" tvg-name="EIPLUS" tvg-logo="" tvg-chno="202" group-title="Esportes",EIPLUS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/205.m3u8;
+#EXTINF:-1 tvg-id="id203" tvg-name="EIPLUS 2" tvg-logo="" tvg-chno="203" group-title="Esportes",EIPLUS 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/206.m3u8;
+#EXTINF:-1 tvg-id="id204" tvg-name="DAZN²" tvg-logo="" tvg-chno="204" group-title="Esportes",DAZN²
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/142.m3u8;
+#EXTINF:-1 tvg-id="id205" tvg-name="NBA" tvg-logo="" tvg-chno="205" group-title="Esportes",NBA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec;
+#EXTINF:-1 tvg-id="id206" tvg-name="NFL TV" tvg-logo="" tvg-chno="206" group-title="Esportes",NFL TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8;
+#EXTINF:-1 tvg-id="id207" tvg-name="Horse Brasil HD" tvg-logo="" tvg-chno="207" group-title="Esportes",Horse Brasil HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id208" tvg-name="Real Madrid" tvg-logo="" tvg-chno="208" group-title="Esportes",Real Madrid
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:25461/live/ySUab26xrzc0B1/Mx6FKlOt8rdk/123.m3u8;
+#EXTINF:-1 tvg-id="id209" tvg-name="OFF" tvg-logo="" tvg-chno="209" group-title="Documentarios",OFF
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/509.m3u8;
+#EXTINF:-1 tvg-id="id210" tvg-name="NATGEO WILD *" tvg-logo="" tvg-chno="210" group-title="Documentarios",NATGEO WILD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/491.m3u8;
+#EXTINF:-1 tvg-id="id211" tvg-name="NATGEO *" tvg-logo="" tvg-chno="211" group-title="Documentarios",NATGEO *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/480.m3u8;
+#EXTINF:-1 tvg-id="id212" tvg-name="CURTA! *" tvg-logo="" tvg-chno="212" group-title="Documentarios",CURTA! *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/138.m3u8;
+#EXTINF:-1 tvg-id="id213" tvg-name="DISCOVERY CHANNEL *" tvg-logo="" tvg-chno="213" group-title="Documentarios",DISCOVERY CHANNEL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/143.m3u8;
+#EXTINF:-1 tvg-id="id214" tvg-name="DISCOVERY H&H *" tvg-logo="" tvg-chno="214" group-title="Documentarios",DISCOVERY H&H *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/151.m3u8;
+#EXTINF:-1 tvg-id="id215" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" tvg-chno="215" group-title="Documentarios",DISCOVERY CIVILIZATION
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/149.m3u8;
+#EXTINF:-1 tvg-id="id216" tvg-name="DISCOVERY SCIENCE" tvg-logo="" tvg-chno="216" group-title="Documentarios",DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/161.m3u8;
+#EXTINF:-1 tvg-id="id217" tvg-name="DISCOVERY THEATER" tvg-logo="" tvg-chno="217" group-title="Documentarios",DISCOVERY THEATER
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/166.m3u8;
+#EXTINF:-1 tvg-id="id218" tvg-name="DISCOVERY WORLD" tvg-logo="" tvg-chno="218" group-title="Documentarios",DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/175.m3u8;
+#EXTINF:-1 tvg-id="id219" tvg-name="Animal Planet" tvg-logo="" tvg-chno="219" group-title="Documentarios",Animal Planet
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/17.m3u8;
+#EXTINF:-1 tvg-id="id220" tvg-name="HISTORY 2 *" tvg-logo="" tvg-chno="220" group-title="Documentarios",HISTORY 2 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/414.m3u8;
+#EXTINF:-1 tvg-id="id221" tvg-name="INVESTIGAÇÃO DISCOVERY *" tvg-logo="" tvg-chno="221" group-title="Documentarios",INVESTIGAÇÃO DISCOVERY *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/427.m3u8;
+#EXTINF:-1 tvg-id="id222" tvg-name="SYFY *" tvg-logo="" tvg-chno="222" group-title="Documentarios",SYFY *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/653.m3u8;
+#EXTINF:-1 tvg-id="id223" tvg-name="FISH TV *" tvg-logo="" tvg-chno="223" group-title="Documentarios",FISH TV *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/247.m3u8;
+#EXTINF:-1 tvg-id="id224" tvg-name="ARTE1 *" tvg-logo="" tvg-chno="224" group-title="Documentarios",ARTE1 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/27.m3u8;
+#EXTINF:-1 tvg-id="id225" tvg-name="HISTORY CHANNEL *" tvg-logo="" tvg-chno="225" group-title="Documentarios",HISTORY CHANNEL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/420.m3u8;
+#EXTINF:-1 tvg-id="id226" tvg-name="Dentro Do Sol" tvg-logo="" tvg-chno="226" group-title="Documentarios",Dentro Do Sol
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4;
+#EXTINF:-1 tvg-id="id227" tvg-name="Guerra Do Paraguai A Nossa Grande Guerra" tvg-logo="" tvg-chno="227" group-title="Documentarios",Guerra Do Paraguai A Nossa Grande Guerra
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ia801506.us.archive.org/2/items/GuerraDoParaguaiANossaGrandeGuerra/Guerra%20do%20Paraguai%20-%20A%20nossa%20Grande%20Guerra.mp4;
+#EXTINF:-1 tvg-id="id228" tvg-name="REVELACOES E REVOLUCOES" tvg-logo="" tvg-chno="228" group-title="Documentarios",REVELACOES E REVOLUCOES
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Historia.da.Eletricidade-Dublado.720p/A%20hist%c3%b3ria%20da%20Eletricidade%20-%20ep3%20Revela%c3%a7%c3%b5es%20e%20Revolu%c3%a7%c3%b5es%20-%20Dublado%20720p.mp4;
+#EXTINF:-1 tvg-id="id229" tvg-name="A Guerra do Vietnã- Parte 1" tvg-logo="" tvg-chno="229" group-title="Documentarios",A Guerra do Vietnã- Parte 1
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4;
+#EXTINF:-1 tvg-id="id230" tvg-name="A Guerra do Vietnã- Parte 2" tvg-logo="" tvg-chno="230" group-title="Documentarios",A Guerra do Vietnã- Parte 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4;
+#EXTINF:-1 tvg-id="id231" tvg-name="10 Coisas que Você Precisa Saber Sobre Perder Peso" tvg-logo="" tvg-chno="231" group-title="Documentarios",10 Coisas que Você Precisa Saber Sobre Perder Peso
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/Perder.Peso/10.Things.You.Need.to.Know.About.Losing.Weight.XviD.mp4;
+#EXTINF:-1 tvg-id="id232" tvg-name="SAL" tvg-logo="" tvg-chno="232" group-title="History - A Grande Historia",SAL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4;
+#EXTINF:-1 tvg-id="id233" tvg-name="OURO" tvg-logo="" tvg-chno="233" group-title="History - A Grande Historia",OURO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4;
+#EXTINF:-1 tvg-id="id234" tvg-name="CAVALO" tvg-logo="" tvg-chno="234" group-title="History - A Grande Historia",CAVALO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4;
+#EXTINF:-1 tvg-id="id235" tvg-name="ABAIXO DE ZERO" tvg-logo="" tvg-chno="235" group-title="History - A Grande Historia",ABAIXO DE ZERO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4;
+#EXTINF:-1 tvg-id="id236" tvg-name="MEGAESTRUTURAS" tvg-logo="" tvg-chno="236" group-title="History - A Grande Historia",MEGAESTRUTURAS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4;
+#EXTINF:-1 tvg-id="id237" tvg-name="O MUNDO DAS ARMAS" tvg-logo="" tvg-chno="237" group-title="History - A Grande Historia",O MUNDO DAS ARMAS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4;
+#EXTINF:-1 tvg-id="id238" tvg-name="A ASCENSÃO DOS CARNIVOROS" tvg-logo="" tvg-chno="238" group-title="History - A Grande Historia",A ASCENSÃO DOS CARNIVOROS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4;
+#EXTINF:-1 tvg-id="id239" tvg-name="MONTANHAS" tvg-logo="" tvg-chno="239" group-title="History - A Grande Historia",MONTANHAS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4;
+#EXTINF:-1 tvg-id="id240" tvg-name="ESTIMULO CEREBRAL" tvg-logo="" tvg-chno="240" group-title="History - A Grande Historia",ESTIMULO CEREBRAL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4;
+#EXTINF:-1 tvg-id="id241" tvg-name="DESAFIANDO A GRAVIDADE" tvg-logo="" tvg-chno="241" group-title="History - A Grande Historia",DESAFIANDO A GRAVIDADE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4;
+#EXTINF:-1 tvg-id="id242" tvg-name="MAQUINA DO TEMPO PORTATIL" tvg-logo="" tvg-chno="242" group-title="History - A Grande Historia",MAQUINA DO TEMPO PORTATIL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4;
+#EXTINF:-1 tvg-id="id243" tvg-name="METEOROS MORTAIS" tvg-logo="" tvg-chno="243" group-title="History - A Grande Historia",METEOROS MORTAIS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4;
+#EXTINF:-1 tvg-id="id244" tvg-name="DECODIFICANDO" tvg-logo="" tvg-chno="244" group-title="History - A Grande Historia",DECODIFICANDO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4;
+#EXTINF:-1 tvg-id="id245" tvg-name="SUPERNOVA DE PRATA" tvg-logo="" tvg-chno="245" group-title="History - A Grande Historia",SUPERNOVA DE PRATA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4;
+#EXTINF:-1 tvg-id="id246" tvg-name="O SOL" tvg-logo="" tvg-chno="246" group-title="History - A Grande Historia",O SOL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4;
+#EXTINF:-1 tvg-id="id247" tvg-name="H2O" tvg-logo="" tvg-chno="247" group-title="History - A Grande Historia",H2O
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4;
+#EXTINF:-1 tvg-id="id248" tvg-name="FINAL" tvg-logo="" tvg-chno="248" group-title="History - A Grande Historia",FINAL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4;
+#EXTINF:-1 tvg-id="id249" tvg-name="TELECINE ACTION *" tvg-logo="" tvg-chno="249" group-title="Filmes e Series",TELECINE ACTION *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/671.m3u8;
+#EXTINF:-1 tvg-id="id250" tvg-name="TELECINE CULT *" tvg-logo="" tvg-chno="250" group-title="Filmes e Series",TELECINE CULT *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/676.m3u8;
+#EXTINF:-1 tvg-id="id251" tvg-name="TELECINE FUN *" tvg-logo="" tvg-chno="251" group-title="Filmes e Series",TELECINE FUN *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/681.m3u8;
+#EXTINF:-1 tvg-id="id252" tvg-name="TELECINE PIPOCA *" tvg-logo="" tvg-chno="252" group-title="Filmes e Series",TELECINE PIPOCA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/686.m3u8;
+#EXTINF:-1 tvg-id="id253" tvg-name="TELECINE PREMIUM *" tvg-logo="" tvg-chno="253" group-title="Filmes e Series",TELECINE PREMIUM *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/691.m3u8;
+#EXTINF:-1 tvg-id="id254" tvg-name="TELECINE TOUCH *" tvg-logo="" tvg-chno="254" group-title="Filmes e Series",TELECINE TOUCH *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/696.m3u8;
+#EXTINF:-1 tvg-id="id255" tvg-name="SPACE *" tvg-logo="" tvg-chno="255" group-title="Filmes e Series",SPACE *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/622.m3u8;
+#EXTINF:-1 tvg-id="id256" tvg-name="STUDIO UNIVERSAL *" tvg-logo="" tvg-chno="256" group-title="Filmes e Series",STUDIO UNIVERSAL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/647.m3u8;
+#EXTINF:-1 tvg-id="id257" tvg-name="TBS *" tvg-logo="" tvg-chno="257" group-title="Filmes e Series",TBS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/659.m3u8;
+#EXTINF:-1 tvg-id="id258" tvg-name="TCM *" tvg-logo="" tvg-chno="258" group-title="Filmes e Series",TCM *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/668.m3u8;
+#EXTINF:-1 tvg-id="id259" tvg-name="TLC *" tvg-logo="" tvg-chno="259" group-title="Filmes e Series",TLC *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/701.m3u8;
+#EXTINF:-1 tvg-id="id260" tvg-name="TNT *" tvg-logo="" tvg-chno="260" group-title="Filmes e Series",TNT *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/705.m3u8;
+#EXTINF:-1 tvg-id="id261" tvg-name="TNT SÉRIES *" tvg-logo="" tvg-chno="261" group-title="Filmes e Series",TNT SÉRIES *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/712.m3u8;
+#EXTINF:-1 tvg-id="id262" tvg-name="TRUTV *" tvg-logo="" tvg-chno="262" group-title="Filmes e Series",TRUTV *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/721.m3u8;
+#EXTINF:-1 tvg-id="id263" tvg-name="UNIVERSAL TV *" tvg-logo="" tvg-chno="263" group-title="Filmes e Series",UNIVERSAL TV *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/737.m3u8;
+#EXTINF:-1 tvg-id="id264" tvg-name="WARNER CHANNEL *" tvg-logo="" tvg-chno="264" group-title="Filmes e Series",WARNER CHANNEL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/755.m3u8;
+#EXTINF:-1 tvg-id="id265" tvg-name="WOOHOO *" tvg-logo="" tvg-chno="265" group-title="Filmes e Series",WOOHOO *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/761.m3u8;
+#EXTINF:-1 tvg-id="id266" tvg-name="PARAMOUNT CHANNEL *" tvg-logo="" tvg-chno="266" group-title="Filmes e Series",PARAMOUNT CHANNEL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/515.m3u8;
+#EXTINF:-1 tvg-id="id267" tvg-name="MEGAPIX *" tvg-logo="" tvg-chno="267" group-title="Filmes e Series",MEGAPIX *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/459.m3u8;
+#EXTINF:-1 tvg-id="id268" tvg-name="LIFETIME *" tvg-logo="" tvg-chno="268" group-title="Filmes e Series",LIFETIME *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/432.m3u8;
+#EXTINF:-1 tvg-id="id269" tvg-name="HBO HD" tvg-logo="" tvg-chno="269" group-title="Filmes e Series",HBO HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/380.m3u8;
+#EXTINF:-1 tvg-id="id270" tvg-name="HBO *" tvg-logo="" tvg-chno="270" group-title="Filmes e Series",HBO *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/381.m3u8;
+#EXTINF:-1 tvg-id="id271" tvg-name="HBO 2 *" tvg-logo="" tvg-chno="271" group-title="Filmes e Series",HBO 2 *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/387.m3u8;
+#EXTINF:-1 tvg-id="id272" tvg-name="HBO FAMILY *" tvg-logo="" tvg-chno="272" group-title="Filmes e Series",HBO FAMILY *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/392.m3u8;
+#EXTINF:-1 tvg-id="id273" tvg-name="HBO + *" tvg-logo="" tvg-chno="273" group-title="Filmes e Series",HBO + *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/382.m3u8;
+#EXTINF:-1 tvg-id="id274" tvg-name="HBO SIGNATURE *" tvg-logo="" tvg-chno="274" group-title="Filmes e Series",HBO SIGNATURE *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/404.m3u8;
+#EXTINF:-1 tvg-id="id275" tvg-name="FILM & ARTS *" tvg-logo="" tvg-chno="275" group-title="Filmes e Series",FILM & ARTS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/244.m3u8;
+#EXTINF:-1 tvg-id="id276" tvg-name="FOOD NETWORK *" tvg-logo="" tvg-chno="276" group-title="Filmes e Series",FOOD NETWORK *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/251.m3u8;
+#EXTINF:-1 tvg-id="id277" tvg-name="FOX *" tvg-logo="" tvg-chno="277" group-title="Filmes e Series",FOX *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/257.m3u8;
+#EXTINF:-1 tvg-id="id278" tvg-name="FOX LIFE *" tvg-logo="" tvg-chno="278" group-title="Filmes e Series",FOX LIFE *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/263.m3u8;
+#EXTINF:-1 tvg-id="id279" tvg-name="FOX PREMIUM 1" tvg-logo="" tvg-chno="279" group-title="Filmes e Series",FOX PREMIUM 1
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/269.m3u8;
+#EXTINF:-1 tvg-id="id280" tvg-name="FOX PREMIUM 2" tvg-logo="" tvg-chno="280" group-title="Filmes e Series",FOX PREMIUM 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/273.m3u8;
+#EXTINF:-1 tvg-id="id281" tvg-name="FX *" tvg-logo="" tvg-chno="281" group-title="Filmes e Series",FX *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/291.m3u8;
+#EXTINF:-1 tvg-id="id282" tvg-name="SONY *" tvg-logo="" tvg-chno="282" group-title="Filmes e Series",SONY *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/80.m3u8;
+#EXTINF:-1 tvg-id="id283" tvg-name="CINEMAX *" tvg-logo="" tvg-chno="283" group-title="Filmes e Series",CINEMAX *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/101.m3u8;
+#EXTINF:-1 tvg-id="id284" tvg-name="A&E *" tvg-logo="" tvg-chno="284" group-title="Filmes e Series",A&E *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/2.m3u8;
+#EXTINF:-1 tvg-id="id285" tvg-name="AMC *" tvg-logo="" tvg-chno="285" group-title="Filmes e Series",AMC *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/12.m3u8;
+#EXTINF:-1 tvg-id="id286" tvg-name="AXN *" tvg-logo="" tvg-chno="286" group-title="Filmes e Series",AXN *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/29.m3u8;
+#EXTINF:-1 tvg-id="id287" tvg-name="E! *" tvg-logo="" tvg-chno="287" group-title="Filmes e Series",E! *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/201.m3u8;
+#EXTINF:-1 tvg-id="id288" tvg-name="COMEDY CENTRAL *" tvg-logo="" tvg-chno="288" group-title="Filmes e Series",COMEDY CENTRAL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/117.m3u8;
+#EXTINF:-1 tvg-id="id289" tvg-name="Cine Filmes" tvg-logo="" tvg-chno="289" group-title="Filmes e Series",Cine Filmes
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id290" tvg-name="Cine Filmes 2" tvg-logo="" tvg-chno="290" group-title="Filmes e Series",Cine Filmes 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8;
+#EXTINF:-1 tvg-id="id291" tvg-name="Cine Filmes 3" tvg-logo="" tvg-chno="291" group-title="Filmes e Series",Cine Filmes 3
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341;
+#EXTINF:-1 tvg-id="id292" tvg-name="Filmes 24HRS" tvg-logo="" tvg-chno="292" group-title="Filmes e Series",Filmes 24HRS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?formigatvSeCopiarDeixaoCredito;
+#EXTINF:-1 tvg-id="id293" tvg-name="Só Filmes" tvg-logo="" tvg-chno="293" group-title="Filmes e Series",Só Filmes
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?DantasIPTV;
+#EXTINF:-1 tvg-id="id294" tvg-name="Filmes Gospels" tvg-logo="" tvg-chno="294" group-title="Filmes e Series",Filmes Gospels
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8;
+#EXTINF:-1 tvg-id="id295" tvg-name="Classique TV" tvg-logo="" tvg-chno="295" group-title="Filmes e Series",Classique TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id296" tvg-name="Cine+" tvg-logo="" tvg-chno="296" group-title="Filmes e Series",Cine+
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://live.sba1.com/hls/livecm/index.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id297" tvg-name="TV Ilha - Action" tvg-logo="" tvg-chno="297" group-title="Filmes e Series",TV Ilha - Action
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8?wowzasessionid=958274280;
+#EXTINF:-1 tvg-id="id298" tvg-name="Retrô" tvg-logo="" tvg-chno="298" group-title="Filmes e Series",Retrô
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8;
+#EXTINF:-1 tvg-id="id299" tvg-name="BABY TV *" tvg-logo="" tvg-chno="299" group-title="Infantil",BABY TV *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/35.m3u8;
+#EXTINF:-1 tvg-id="id300" tvg-name="PLAYKIDS *" tvg-logo="" tvg-chno="300" group-title="Infantil",PLAYKIDS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/524.m3u8;
+#EXTINF:-1 tvg-id="id301" tvg-name="TOONCAST *" tvg-logo="" tvg-chno="301" group-title="Infantil",TOONCAST *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/716.m3u8;
+#EXTINF:-1 tvg-id="id302" tvg-name="BOOMERANG *" tvg-logo="" tvg-chno="302" group-title="Infantil",BOOMERANG *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/64.m3u8;
+#EXTINF:-1 tvg-id="id303" tvg-name="DISCOVERY KIDS *" tvg-logo="" tvg-chno="303" group-title="Infantil",DISCOVERY KIDS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/156.m3u8;
+#EXTINF:-1 tvg-id="id304" tvg-name="DISNEY CHANNEL HD *" tvg-logo="" tvg-chno="304" group-title="Infantil",DISNEY CHANNEL HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/180.m3u8;
+#EXTINF:-1 tvg-id="id305" tvg-name="DISNEY CHANNEL *" tvg-logo="" tvg-chno="305" group-title="Infantil",DISNEY CHANNEL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/181.m3u8;
+#EXTINF:-1 tvg-id="id306" tvg-name="DISNEY JUNIOR HD *" tvg-logo="" tvg-chno="306" group-title="Infantil",DISNEY JUNIOR HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/187.m3u8;
+#EXTINF:-1 tvg-id="id307" tvg-name="DISNEY JUNIOR *" tvg-logo="" tvg-chno="307" group-title="Infantil",DISNEY JUNIOR *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/188.m3u8;
+#EXTINF:-1 tvg-id="id308" tvg-name="DISNEY XD HD *" tvg-logo="" tvg-chno="308" group-title="Infantil",DISNEY XD HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/194.m3u8;
+#EXTINF:-1 tvg-id="id309" tvg-name="DISNEY XD *" tvg-logo="" tvg-chno="309" group-title="Infantil",DISNEY XD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/195.m3u8;
+#EXTINF:-1 tvg-id="id310" tvg-name="GLOOB HD *" tvg-logo="" tvg-chno="310" group-title="Infantil",GLOOB HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/367.m3u8;
+#EXTINF:-1 tvg-id="id311" tvg-name="GLOOB *" tvg-logo="" tvg-chno="311" group-title="Infantil",GLOOB *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/368.m3u8;
+#EXTINF:-1 tvg-id="id312" tvg-name="GLOOBINHO HD *" tvg-logo="" tvg-chno="312" group-title="Infantil",GLOOBINHO HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/372.m3u8;
+#EXTINF:-1 tvg-id="id313" tvg-name="GLOOBINHO *" tvg-logo="" tvg-chno="313" group-title="Infantil",GLOOBINHO *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/374.m3u8;
+#EXTINF:-1 tvg-id="id314" tvg-name="NATGEO KIDS *" tvg-logo="" tvg-chno="314" group-title="Infantil",NATGEO KIDS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/486.m3u8;
+#EXTINF:-1 tvg-id="id315" tvg-name="NICK JR *" tvg-logo="" tvg-chno="315" group-title="Infantil",NICK JR *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/501.m3u8;
+#EXTINF:-1 tvg-id="id316" tvg-name="NICKELODEON *" tvg-logo="" tvg-chno="316" group-title="Infantil",NICKELODEON *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/505.m3u8;
+#EXTINF:-1 tvg-id="id317" tvg-name="TV RA TIM BUM *" tvg-logo="" tvg-chno="317" group-title="Infantil",TV RA TIM BUM *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/731.m3u8;
+#EXTINF:-1 tvg-id="id318" tvg-name="Gospel Cartoon" tvg-logo="" tvg-chno="318" group-title="Infantil",Gospel Cartoon
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165;
+#EXTINF:-1 tvg-id="id319" tvg-name="BAND NEWS *" tvg-logo="" tvg-chno="319" group-title="Jornalismo",BAND NEWS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/49.m3u8;
+#EXTINF:-1 tvg-id="id320" tvg-name="CNN BRASIL²" tvg-logo="" tvg-chno="320" group-title="Jornalismo",CNN BRASIL²
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/108.m3u8;
+#EXTINF:-1 tvg-id="id321" tvg-name="RECORD NEWS HD *" tvg-logo="" tvg-chno="321" group-title="Jornalismo",RECORD NEWS HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/587.m3u8;
+#EXTINF:-1 tvg-id="id322" tvg-name="RECORD NEWS *" tvg-logo="" tvg-chno="322" group-title="Jornalismo",RECORD NEWS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/586.m3u8;
+#EXTINF:-1 tvg-id="id323" tvg-name="GLOBO NEWS *" tvg-logo="" tvg-chno="323" group-title="Jornalismo",GLOBO NEWS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/323.m3u8;
+#EXTINF:-1 tvg-id="id324" tvg-name="GLOBO NEWS HD *" tvg-logo="" tvg-chno="324" group-title="Jornalismo",GLOBO NEWS HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/326.m3u8;
+#EXTINF:-1 tvg-id="id325" tvg-name="CNN ESPANHOL *" tvg-logo="" tvg-chno="325" group-title="Jornalismo",CNN ESPANHOL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/109.m3u8;
+#EXTINF:-1 tvg-id="id326" tvg-name="CNN INTERNACIONAL *" tvg-logo="" tvg-chno="326" group-title="Jornalismo",CNN INTERNACIONAL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/110.m3u8;
+#EXTINF:-1 tvg-id="id327" tvg-name="REDE CNT" tvg-logo="" tvg-chno="327" group-title="Jornalismo",REDE CNT
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/592.m3u8;
+#EXTINF:-1 tvg-id="id328" tvg-name="ABC NEWS" tvg-logo="" tvg-chno="328" group-title="Jornalismo",ABC NEWS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8;
+#EXTINF:-1 tvg-id="id329" tvg-name="BH News" tvg-logo="" tvg-chno="329" group-title="Jornalismo",BH News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8;
+#EXTINF:-1 tvg-id="id330" tvg-name="Record News HD" tvg-logo="" tvg-chno="330" group-title="Jornalismo",Record News HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id331" tvg-name="Bloomberg" tvg-logo="" tvg-chno="331" group-title="Jornalismo",Bloomberg
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id332" tvg-name="TV Ponta Negra News" tvg-logo="" tvg-chno="332" group-title="Jornalismo",TV Ponta Negra News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://184.172.23.109:1935/live/tvmix02/tvmix02/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id333" tvg-name="TV Clima" tvg-logo="" tvg-chno="333" group-title="Jornalismo",TV Clima
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id334" tvg-name="Sky life TG24" tvg-logo="" tvg-chno="334" group-title="Jornalismo",Sky life TG24
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id335" tvg-name="CBS News" tvg-logo="" tvg-chno="335" group-title="Jornalismo",CBS News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id336" tvg-name="Life News" tvg-logo="" tvg-chno="336" group-title="Jornalismo",Life News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tv.life.ru/lifetv/720p/index.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id337" tvg-name="TVI 1" tvg-logo="" tvg-chno="337" group-title="Jornalismo",TVI 1
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id338" tvg-name="+TVI" tvg-logo="" tvg-chno="338" group-title="Jornalismo",+TVI
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id339" tvg-name="TVI 24" tvg-logo="" tvg-chno="339" group-title="Jornalismo",TVI 24
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id340" tvg-name="Porto Canal" tvg-logo="" tvg-chno="340" group-title="Jornalismo",Porto Canal
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id341" tvg-name="Geeak.tv" tvg-logo="" tvg-chno="341" group-title="Jornalismo",Geeak.tv
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming50.sitehosting.com.br:1935/angra/angra/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id342" tvg-name="RTP 1" tvg-logo="" tvg-chno="342" group-title="Jornalismo",RTP 1
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id343" tvg-name="RTP 2" tvg-logo="" tvg-chno="343" group-title="Jornalismo",RTP 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id344" tvg-name="RTP África" tvg-logo="" tvg-chno="344" group-title="Jornalismo",RTP África
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.iptvsaga.com/play/tv3/0026.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id345" tvg-name="RTP Madeira" tvg-logo="" tvg-chno="345" group-title="Jornalismo",RTP Madeira
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.iptvsaga.com/play/tv3/0025.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id346" tvg-name="RTP Açores" tvg-logo="" tvg-chno="346" group-title="Jornalismo",RTP Açores
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.iptvsaga.com/play/tv3/0024.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id347" tvg-name="RTP Memória" tvg-logo="" tvg-chno="347" group-title="Jornalismo",RTP Memória
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.iptvsaga.com/play/tv3/0023.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id348" tvg-name="RTP Internacional" tvg-logo="" tvg-chno="348" group-title="Jornalismo",RTP Internacional
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.iptvsaga.com/play/tv3/0022.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id349" tvg-name="Fox News 23" tvg-logo="" tvg-chno="349" group-title="Jornalismo",Fox News 23
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/master.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id350" tvg-name="Fox News 30" tvg-logo="" tvg-chno="350" group-title="Jornalismo",Fox News 30
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id351" tvg-name="KIRO 7 News" tvg-logo="" tvg-chno="351" group-title="Jornalismo",KIRO 7 News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id352" tvg-name="WPXI News" tvg-logo="" tvg-chno="352" group-title="Jornalismo",WPXI News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id353" tvg-name="WSOC 9 News" tvg-logo="" tvg-chno="353" group-title="Jornalismo",WSOC 9 News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id354" tvg-name="WFTV 9 News" tvg-logo="" tvg-chno="354" group-title="Jornalismo",WFTV 9 News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id355" tvg-name="RECORD NEWS" tvg-logo="" tvg-chno="355" group-title="Jornalismo",RECORD NEWS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id356" tvg-name="DW NEWS" tvg-logo="" tvg-chno="356" group-title="Jornalismo",DW NEWS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8;
+#EXTINF:-1 tvg-id="id357" tvg-name="EURONEWS" tvg-logo="" tvg-chno="357" group-title="Jornalismo",EURONEWS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8;
+#EXTINF:-1 tvg-id="id358" tvg-name="TVI" tvg-logo="" tvg-chno="358" group-title="Internacionais",TVI
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8;
+#EXTINF:-1 tvg-id="id359" tvg-name="TVI 24" tvg-logo="" tvg-chno="359" group-title="Internacionais",TVI 24
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-3/livestream.m3u8;
+#EXTINF:-1 tvg-id="id360" tvg-name="ABC News" tvg-logo="" tvg-chno="360" group-title="Internacionais",ABC News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on;
+#EXTINF:-1 tvg-id="id361" tvg-name="CBS News HD (KODI)" tvg-logo="" tvg-chno="361" group-title="Internacionais",CBS News HD (KODI)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8;
+#EXTINF:-1 tvg-id="id362" tvg-name="BBC World News" tvg-logo="" tvg-chno="362" group-title="Internacionais",BBC World News
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8;
+#EXTINF:-1 tvg-id="id363" tvg-name="Animal Planet L!VE HD" tvg-logo="" tvg-chno="363" group-title="Internacionais",Animal Planet L!VE HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8;
+#EXTINF:-1 tvg-id="id364" tvg-name="NasaTV" tvg-logo="" tvg-chno="364" group-title="Internacionais",NasaTV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8;
+#EXTINF:-1 tvg-id="id365" tvg-name="ISS AO VIVO - Estação Espacial" tvg-logo="" tvg-chno="365" group-title="Internacionais",ISS AO VIVO - Estação Espacial
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8;
+#EXTINF:-1 tvg-id="id366" tvg-name="NHK World" tvg-logo="" tvg-chno="366" group-title="Internacionais",NHK World
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8;
+#EXTINF:-1 tvg-id="id367" tvg-name="Arirang" tvg-logo="" tvg-chno="367" group-title="Internacionais",Arirang
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8;
+#EXTINF:-1 tvg-id="id368" tvg-name="MBC" tvg-logo="" tvg-chno="368" group-title="Internacionais",MBC
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://119.202.61.202:1935/live/livetv/playlist.m3u8;
+#EXTINF:-1 tvg-id="id369" tvg-name="RT Documentary Channel" tvg-logo="" tvg-chno="369" group-title="Internacionais",RT Documentary Channel
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8;
+#EXTINF:-1 tvg-id="id370" tvg-name="Game Show TV - Russía" tvg-logo="" tvg-chno="370" group-title="Internacionais",Game Show TV - Russía
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8;
+#EXTINF:-1 tvg-id="id371" tvg-name="Foro TV" tvg-logo="" tvg-chno="371" group-title="Internacionais",Foro TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8;
+#EXTINF:-1 tvg-id="id372" tvg-name="Azteca Trece" tvg-logo="" tvg-chno="372" group-title="Internacionais",Azteca Trece
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8;
+#EXTINF:-1 tvg-id="id373" tvg-name="History Lab - Itália" tvg-logo="" tvg-chno="373" group-title="Internacionais",History Lab - Itália
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8;
+#EXTINF:-1 tvg-id="id374" tvg-name="DW" tvg-logo="" tvg-chno="374" group-title="Internacionais",DW
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8;
+#EXTINF:-1 tvg-id="id375" tvg-name="France 24" tvg-logo="" tvg-chno="375" group-title="Internacionais",France 24
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8;
+#EXTINF:-1 tvg-id="id376" tvg-name="TV5 Monde" tvg-logo="" tvg-chno="376" group-title="Internacionais",TV5 Monde
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8;
+#EXTINF:-1 tvg-id="id377" tvg-name="Aljazeera" tvg-logo="" tvg-chno="377" group-title="Internacionais",Aljazeera
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8;
+#EXTINF:-1 tvg-id="id378" tvg-name="Aljazeera Doc" tvg-logo="" tvg-chno="378" group-title="Internacionais",Aljazeera Doc
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8;
+#EXTINF:-1 tvg-id="id379" tvg-name="PORTAL GOSPEL TV" tvg-logo="" tvg-chno="379" group-title="Religiosos",PORTAL GOSPEL TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8;
+#EXTINF:-1 tvg-id="id380" tvg-name="REDE FAMILIA" tvg-logo="" tvg-chno="380" group-title="Religiosos",REDE FAMILIA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8;
+#EXTINF:-1 tvg-id="id381" tvg-name="TV APARECIDA" tvg-logo="" tvg-chno="381" group-title="Religiosos",TV APARECIDA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8;
+#EXTINF:-1 tvg-id="id382" tvg-name="Show Da Fé" tvg-logo="" tvg-chno="382" group-title="Religiosos",Show Da Fé
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://nossatvhls02-lh.akamaihd.net/i/nossatv_hls@381916/master.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id383" tvg-name="Cancao Nova" tvg-logo="" tvg-chno="383" group-title="Religiosos",Cancao Nova
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:25461/live/ySUab26xrzc0B1/Mx6FKlOt8rdk/6.m3u8;
+#EXTINF:-1 tvg-id="id384" tvg-name="Santuario de Aparecida - Nicho" tvg-logo="" tvg-chno="384" group-title="Religiosos",Santuario de Aparecida - Nicho
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8;
+#EXTINF:-1 tvg-id="id385" tvg-name="Tv Aparecida" tvg-logo="" tvg-chno="385" group-title="Religiosos",Tv Aparecida
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8;
+#EXTINF:-1 tvg-id="id386" tvg-name="TVCI" tvg-logo="" tvg-chno="386" group-title="Religiosos",TVCI
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8;
+#EXTINF:-1 tvg-id="id387" tvg-name="Tv Evangelizar" tvg-logo="" tvg-chno="387" group-title="Religiosos",Tv Evangelizar
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id388" tvg-name="Gospel Music" tvg-logo="" tvg-chno="388" group-title="Religiosos",Gospel Music
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8;
+#EXTINF:-1 tvg-id="id389" tvg-name="IMPD Tv" tvg-logo="" tvg-chno="389" group-title="Religiosos",IMPD Tv
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8;
+#EXTINF:-1 tvg-id="id390" tvg-name="Lbv" tvg-logo="" tvg-chno="390" group-title="Religiosos",Lbv
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8;
+#EXTINF:-1 tvg-id="id391" tvg-name="Portal Gospel" tvg-logo="" tvg-chno="391" group-title="Religiosos",Portal Gospel
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8;
+#EXTINF:-1 tvg-id="id392" tvg-name="Rede Super" tvg-logo="" tvg-chno="392" group-title="Religiosos",Rede Super
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8;
+#EXTINF:-1 tvg-id="id393" tvg-name="Sky Gospel" tvg-logo="" tvg-chno="393" group-title="Religiosos",Sky Gospel
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8;
+#EXTINF:-1 tvg-id="id394" tvg-name="Tv Boa Esperanca" tvg-logo="" tvg-chno="394" group-title="Religiosos",Tv Boa Esperanca
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8;
+#EXTINF:-1 tvg-id="id395" tvg-name="Tv Cristo Vive" tvg-logo="" tvg-chno="395" group-title="Religiosos",Tv Cristo Vive
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/_definst_/live_apostolo_115/playlist.m3u8;
+#EXTINF:-1 tvg-id="id396" tvg-name="Tv Cristo Vive (OP 2)" tvg-logo="" tvg-chno="396" group-title="Religiosos",Tv Cristo Vive (OP 2)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8;
+#EXTINF:-1 tvg-id="id397" tvg-name="Novo Tempo SP" tvg-logo="" tvg-chno="397" group-title="Religiosos",Novo Tempo SP
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id398" tvg-name="Novo Tempo RS" tvg-logo="" tvg-chno="398" group-title="Religiosos",Novo Tempo RS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id399" tvg-name="Tv Novo Tempo" tvg-logo="" tvg-chno="399" group-title="Religiosos",Tv Novo Tempo
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8;
+#EXTINF:-1 tvg-id="id400" tvg-name="Tv Verdade" tvg-logo="" tvg-chno="400" group-title="Religiosos",Tv Verdade
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8;
+#EXTINF:-1 tvg-id="id401" tvg-name="Vem e Ve Tv" tvg-logo="" tvg-chno="401" group-title="Religiosos",Vem e Ve Tv
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/playlist.m3u8?MWINFO;
+#EXTINF:-1 tvg-id="id402" tvg-name="Vem e Ve Tv 1" tvg-logo="" tvg-chno="402" group-title="Religiosos",Vem e Ve Tv 1
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8;
+#EXTINF:-1 tvg-id="id403" tvg-name="Vem e Ve Tv 2" tvg-logo="" tvg-chno="403" group-title="Religiosos",Vem e Ve Tv 2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/playlist.m3u8;
+#EXTINF:-1 tvg-id="id404" tvg-name="Rede Gospel" tvg-logo="" tvg-chno="404" group-title="Religiosos",Rede Gospel
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id405" tvg-name="CINE 01" tvg-logo="" tvg-chno="405" group-title="Filmes 24Hs",CINE 01
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/91.m3u8;
+#EXTINF:-1 tvg-id="id406" tvg-name="CINE 02" tvg-logo="" tvg-chno="406" group-title="Filmes 24Hs",CINE 02
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/92.m3u8;
+#EXTINF:-1 tvg-id="id407" tvg-name="CINE 03" tvg-logo="" tvg-chno="407" group-title="Filmes 24Hs",CINE 03
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/93.m3u8;
+#EXTINF:-1 tvg-id="id408" tvg-name="CINE 04" tvg-logo="" tvg-chno="408" group-title="Filmes 24Hs",CINE 04
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/94.m3u8;
+#EXTINF:-1 tvg-id="id409" tvg-name="CINE 05" tvg-logo="" tvg-chno="409" group-title="Filmes 24Hs",CINE 05
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/95.m3u8;
+#EXTINF:-1 tvg-id="id410" tvg-name="CINE 06" tvg-logo="" tvg-chno="410" group-title="Filmes 24Hs",CINE 06
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/96.m3u8;
+#EXTINF:-1 tvg-id="id411" tvg-name="CINE 07" tvg-logo="" tvg-chno="411" group-title="Filmes 24Hs",CINE 07
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/97.m3u8;
+#EXTINF:-1 tvg-id="id412" tvg-name="CINE 08" tvg-logo="" tvg-chno="412" group-title="Filmes 24Hs",CINE 08
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/98.m3u8;
+#EXTINF:-1 tvg-id="id413" tvg-name="CINE 09" tvg-logo="" tvg-chno="413" group-title="Filmes 24Hs",CINE 09
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/99.m3u8;
+#EXTINF:-1 tvg-id="id414" tvg-name="CINE 10" tvg-logo="" tvg-chno="414" group-title="Filmes 24Hs",CINE 10
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/100.m3u8;
+#EXTINF:-1 tvg-id="id415" tvg-name="The Last Days of American Crime (2020)" tvg-logo="" tvg-chno="415" group-title="Filmes Lançamentos",The Last Days of American Crime (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/thelastamerican.mp4;
+#EXTINF:-1 tvg-id="id416" tvg-name="365 Dias (2020)" tvg-logo="" tvg-chno="416" group-title="Filmes Lançamentos",365 Dias (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/365dias.mp4;
+#EXTINF:-1 tvg-id="id417" tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)" tvg-logo="" tvg-chno="417" group-title="Filmes Lançamentos",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/avesderapinas.mp4;
+#EXTINF:-1 tvg-id="id418" tvg-name="Sonic: O Filme (2020)" tvg-logo="" tvg-chno="418" group-title="Filmes Lançamentos",Sonic: O Filme (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/sonicofilme.mp4;
+#EXTINF:-1 tvg-id="id419" tvg-name="Bad Boys Para Sempre (2020)" tvg-logo="" tvg-chno="419" group-title="Filmes Lançamentos",Bad Boys Para Sempre (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/badboysparasempre.mp4;
+#EXTINF:-1 tvg-id="id420" tvg-name="Bloodshot (2020)" tvg-logo="" tvg-chno="420" group-title="Filmes Lançamentos",Bloodshot (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/bloodshot.mp4;
+#EXTINF:-1 tvg-id="id421" tvg-name="As Aventuras do Dr. Dolittle (2020)" tvg-logo="" tvg-chno="421" group-title="Filmes Lançamentos",As Aventuras do Dr. Dolittle (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/asaventurasdolittle.mp4;
+#EXTINF:-1 tvg-id="id422" tvg-name="Maria e João: O Conto das Bruxas (2020)" tvg-logo="" tvg-chno="422" group-title="Filmes Lançamentos",Maria e João: O Conto das Bruxas (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/mariaejoao.mp4;
+#EXTINF:-1 tvg-id="id423" tvg-name="Dois Irmãos - Uma Jornada Fantástica (2020)" tvg-logo="" tvg-chno="423" group-title="Filmes Lançamentos",Dois Irmãos - Uma Jornada Fantástica (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/doisirmaos.mp4;
+#EXTINF:-1 tvg-id="id424" tvg-name="Resgate (2020)" tvg-logo="" tvg-chno="424" group-title="Filmes Lançamentos",Resgate (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/resgate.mp4;
+#EXTINF:-1 tvg-id="id425" tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você (2020)" tvg-logo="" tvg-chno="425" group-title="Filmes Lançamentos",Para Todos os Garotos: P.S. Ainda Amo Você (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/paratodososgarotos2.mp4;
+#EXTINF:-1 tvg-id="id426" tvg-name="Mortal Kombat Legends: A Vingança de Scorpion (2020)" tvg-logo="" tvg-chno="426" group-title="Filmes Lançamentos",Mortal Kombat Legends: A Vingança de Scorpion (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/mortalkombatlegends.mp4;
+#EXTINF:-1 tvg-id="id427" tvg-name="SCOOBY! O Filme (2020)" tvg-logo="" tvg-chno="427" group-title="Filmes Lançamentos",SCOOBY! O Filme (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/scoobyofilme.mp4;
+#EXTINF:-1 tvg-id="id428" tvg-name="Sobreviver à Noite (2020)" tvg-logo="" tvg-chno="428" group-title="Filmes Lançamentos",Sobreviver à Noite (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/sobreviveranoite.mp4;
+#EXTINF:-1 tvg-id="id429" tvg-name="Por Lugares Incríveis (2020)" tvg-logo="" tvg-chno="429" group-title="Filmes Lançamentos",Por Lugares Incríveis (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/porlugaresincriveis.mp4;
+#EXTINF:-1 tvg-id="id430" tvg-name="Liga da Justiça Sombria: Guerra de Apokolips (2020)" tvg-logo="" tvg-chno="430" group-title="Filmes Lançamentos",Liga da Justiça Sombria: Guerra de Apokolips (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/ligadajusticasombriaaposkoto.mp4;
+#EXTINF:-1 tvg-id="id431" tvg-name="Um Crime para Dois (2020)" tvg-logo="" tvg-chno="431" group-title="Filmes Lançamentos",Um Crime para Dois (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/umcrimeparadois.mp4;
+#EXTINF:-1 tvg-id="id432" tvg-name="Ameaça Profunda (2020)" tvg-logo="" tvg-chno="432" group-title="Filmes Lançamentos",Ameaça Profunda (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/ameacaprofunda.mp4;
+#EXTINF:-1 tvg-id="id433" tvg-name="Troco em Dobro (2020)" tvg-logo="" tvg-chno="433" group-title="Filmes Lançamentos",Troco em Dobro (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/trocoemdrobro.mp4;
+#EXTINF:-1 tvg-id="id434" tvg-name="Os Órfãos (2020)" tvg-logo="" tvg-chno="434" group-title="Filmes Lançamentos",Os Órfãos (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/osorfaos.mp4;
+#EXTINF:-1 tvg-id="id435" tvg-name="Isi & Ossi (2020)" tvg-logo="" tvg-chno="435" group-title="Filmes Lançamentos",Isi & Ossi (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/iseossi.mp4;
+#EXTINF:-1 tvg-id="id436" tvg-name="O Chamado da Floresta (2020)" tvg-logo="" tvg-chno="436" group-title="Filmes Lançamentos",O Chamado da Floresta (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/ochamadodafloresta.mp4;
+#EXTINF:-1 tvg-id="id437" tvg-name="O Grito (2020)" tvg-logo="" tvg-chno="437" group-title="Filmes Lançamentos",O Grito (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/ogrito2020.mp4;
+#EXTINF:-1 tvg-id="id438" tvg-name="Você Nem Imagina (2020)" tvg-logo="" tvg-chno="438" group-title="Filmes Lançamentos",Você Nem Imagina (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/vocenemimagina.mp4;
+#EXTINF:-1 tvg-id="id439" tvg-name="Os Irmãos Willoughby (2020)" tvg-logo="" tvg-chno="439" group-title="Filmes Lançamentos",Os Irmãos Willoughby (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/irmaoswill.mp4;
+#EXTINF:-1 tvg-id="id440" tvg-name="Dias Sem Fim (2020)" tvg-logo="" tvg-chno="440" group-title="Filmes Lançamentos",Dias Sem Fim (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/diassemfim.mp4;
+#EXTINF:-1 tvg-id="id441" tvg-name="Superman: Entre a Foice e o Martelo (2020)" tvg-logo="" tvg-chno="441" group-title="Filmes Lançamentos",Superman: Entre a Foice e o Martelo (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api2.cinefilmes.online/embedded/redson.html;
+#EXTINF:-1 tvg-id="id442" tvg-name="A Missy Errada (2020)" tvg-logo="" tvg-chno="442" group-title="Filmes Lançamentos",A Missy Errada (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/amissyerrada.mp4;
+#EXTINF:-1 tvg-id="id443" tvg-name="Mentiras Perigosas (2020)" tvg-logo="" tvg-chno="443" group-title="Filmes Lançamentos",Mentiras Perigosas (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/mentirasperigosas.mp4;
+#EXTINF:-1 tvg-id="id444" tvg-name="A Grande Luta (2020)" tvg-logo="" tvg-chno="444" group-title="Filmes Lançamentos",A Grande Luta (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/agrandeluta.mp4;
+#EXTINF:-1 tvg-id="id445" tvg-name="Sérgio (2020)" tvg-logo="" tvg-chno="445" group-title="Filmes Lançamentos",Sérgio (2020)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api2.cinefilmes.online/embedded/sergio.html;
+#EXTINF:-1 tvg-id="id446" tvg-name="Entre Facas e Segredos (2019)" tvg-logo="" tvg-chno="446" group-title="Filmes Lançamentos",Entre Facas e Segredos (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/entrefacasesegredos.mp4;
+#EXTINF:-1 tvg-id="id447" tvg-name="As Panteras (2019)" tvg-logo="" tvg-chno="447" group-title="Filmes Lançamentos",As Panteras (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/aspanteras2019.mp4;
+#EXTINF:-1 tvg-id="id448" tvg-name="Parasita (2019)" tvg-logo="" tvg-chno="448" group-title="Filmes Lançamentos",Parasita (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/parasita.mp4;
+#EXTINF:-1 tvg-id="id449" tvg-name="O Quebra-Nozes e os Quatro Reinos (2018)" tvg-logo="" tvg-chno="449" group-title="Filmes Lançamentos",O Quebra-Nozes e os Quatro Reinos (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/oquebranozes.mp4;
+#EXTINF:-1 tvg-id="id450" tvg-name="Star Wars: A Ascensão Skywalker (2019)" tvg-logo="" tvg-chno="450" group-title="Filmes Lançamentos",Star Wars: A Ascensão Skywalker (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/starwarsaascensao.mp4;
+#EXTINF:-1 tvg-id="id451" tvg-name="Jumanji: Próxima Fase (2019)" tvg-logo="" tvg-chno="451" group-title="Filmes Lançamentos",Jumanji: Próxima Fase (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/jumanjiproximafase.mp4;
+#EXTINF:-1 tvg-id="id452" tvg-name="Frozen 2 (2019)" tvg-logo="" tvg-chno="452" group-title="Filmes Lançamentos",Frozen 2 (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/frozen2.mp4;
+#EXTINF:-1 tvg-id="id453" tvg-name="Verão 2003 (2018)" tvg-logo="" tvg-chno="453" group-title="Filmes Lançamentos",Verão 2003 (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/verao2003.mp4;
+#EXTINF:-1 tvg-id="id454" tvg-name="Invasão ao Serviço Secreto (2019)" tvg-logo="" tvg-chno="454" group-title="Filmes Lançamentos",Invasão ao Serviço Secreto (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/invasaoservicosecreto.mp4;
+#EXTINF:-1 tvg-id="id455" tvg-name="Dora e a Cidade Perdida (2019)" tvg-logo="" tvg-chno="455" group-title="Filmes Lançamentos",Dora e a Cidade Perdida (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/doraeacidadeperdida.mp4;
+#EXTINF:-1 tvg-id="id456" tvg-name="Doutor Sono (2019)" tvg-logo="" tvg-chno="456" group-title="Filmes Lançamentos",Doutor Sono (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/doutorsono.mp4;
+#EXTINF:-1 tvg-id="id457" tvg-name="Togo (2019)" tvg-logo="" tvg-chno="457" group-title="Filmes Lançamentos",Togo (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api2.cinefilmes.online/embedded/togo.html;
+#EXTINF:-1 tvg-id="id458" tvg-name="Vingadores: Ultimato (2019)" tvg-logo="" tvg-chno="458" group-title="Filmes Lançamentos",Vingadores: Ultimato (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/avengersendgamenew-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id459" tvg-name="Capitã Marvel (2019)" tvg-logo="" tvg-chno="459" group-title="Filmes Lançamentos",Capitã Marvel (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/capitamarvel-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id460" tvg-name="Aquaman (2018)" tvg-logo="" tvg-chno="460" group-title="Filmes Lançamentos",Aquaman (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/aquamanhd-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id461" tvg-name="Como Treinar o seu Dragão 3 (2019)" tvg-logo="" tvg-chno="461" group-title="Filmes Lançamentos",Como Treinar o seu Dragão 3 (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/comotreinarseudragao3-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id462" tvg-name="Shazam! (2019)" tvg-logo="" tvg-chno="462" group-title="Filmes Lançamentos",Shazam! (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/shazam-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id463" tvg-name="Homem-Aranha: Longe de Casa (2019)" tvg-logo="" tvg-chno="463" group-title="Filmes Lançamentos",Homem-Aranha: Longe de Casa (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/homemaranhalongedecasa-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id464" tvg-name="Toy Story 4 (2019)" tvg-logo="" tvg-chno="464" group-title="Filmes Lançamentos",Toy Story 4 (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/toystory4-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id465" tvg-name="Aladdin (2019)" tvg-logo="" tvg-chno="465" group-title="Filmes Lançamentos",Aladdin (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/aladdin-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id466" tvg-name="Homem-Aranha no Aranhaverso (2018)" tvg-logo="" tvg-chno="466" group-title="Filmes Lançamentos",Homem-Aranha no Aranhaverso (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/aranhaverso-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id467" tvg-name="A Cinco Passos de Você (2019)" tvg-logo="" tvg-chno="467" group-title="Filmes Lançamentos",A Cinco Passos de Você (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/acincopassosdevoce-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id468" tvg-name="X-Men: Fênix Negra (2019)" tvg-logo="" tvg-chno="468" group-title="Filmes Lançamentos",X-Men: Fênix Negra (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/fenixnegra-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id469" tvg-name="John Wick 3 - Parabellum (2019)" tvg-logo="" tvg-chno="469" group-title="Filmes Lançamentos",John Wick 3 - Parabellum (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/johnwick3-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id470" tvg-name="It: Capítulo Dois (2019)" tvg-logo="" tvg-chno="470" group-title="Filmes Lançamentos",It: Capítulo Dois (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/itcapitulodois-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id471" tvg-name="Venom (2018)" tvg-logo="" tvg-chno="471" group-title="Filmes Lançamentos",Venom (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/venom-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id472" tvg-name="Pets: A Vida Secreta dos Bichos 2 (2019)" tvg-logo="" tvg-chno="472" group-title="Filmes Lançamentos",Pets: A Vida Secreta dos Bichos 2 (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/pets2-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id473" tvg-name="Hellboy (2019)" tvg-logo="" tvg-chno="473" group-title="Filmes Lançamentos",Hellboy (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/hellboy-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id474" tvg-name="Annabelle 3: De Volta Para Casa (2019)" tvg-logo="" tvg-chno="474" group-title="Filmes Lançamentos",Annabelle 3: De Volta Para Casa (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/annabelle3-dub-1080p.mp4;
+#EXTINF:-1 tvg-id="id475" tvg-name="Vidro (2019)" tvg-logo="" tvg-chno="475" group-title="Filmes Lançamentos",Vidro (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/vidro-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id476" tvg-name="Para Todos os Garotos que Já Amei (2018)" tvg-logo="" tvg-chno="476" group-title="Filmes Lançamentos",Para Todos os Garotos que Já Amei (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/paratodososgarotosqueamei-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id477" tvg-name="Dumbo (2019)" tvg-logo="" tvg-chno="477" group-title="Filmes Lançamentos",Dumbo (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/dumbo-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id478" tvg-name="Malévola: Dona do Mal (2019)" tvg-logo="" tvg-chno="478" group-title="Filmes Lançamentos",Malévola: Dona do Mal (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/malevoladonadomal.mp4;
+#EXTINF:-1 tvg-id="id479" tvg-name="Alita: Anjo de Combate (2019)" tvg-logo="" tvg-chno="479" group-title="Filmes Lançamentos",Alita: Anjo de Combate (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/alitanjodecombate.mp4;
+#EXTINF:-1 tvg-id="id480" tvg-name="Velozes & Furiosos: Hobbs & Shaw (2019)" tvg-logo="" tvg-chno="480" group-title="Filmes Lançamentos",Velozes & Furiosos: Hobbs & Shaw (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/hobbseshaw.mp4;
+#EXTINF:-1 tvg-id="id481" tvg-name="Pets: A Vida Secreta dos Bichos 2 (2019)" tvg-logo="" tvg-chno="481" group-title="Filmes Lançamentos",Pets: A Vida Secreta dos Bichos 2 (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/pets2-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id482" tvg-name="Hellboy (2019)" tvg-logo="" tvg-chno="482" group-title="Filmes Lançamentos",Hellboy (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/hellboy-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id483" tvg-name="Rambo: Até o Fim (2019)" tvg-logo="" tvg-chno="483" group-title="Filmes Lançamentos",Rambo: Até o Fim (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/ramboateofim.mp4;
+#EXTINF:-1 tvg-id="id484" tvg-name="Superação: O Milagre da Fé (2019)" tvg-logo="" tvg-chno="484" group-title="Filmes Lançamentos",Superação: O Milagre da Fé (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/omilagredafe.mp4;
+#EXTINF:-1 tvg-id="id485" tvg-name="Cinquenta Tons de Liberdade (2018)" tvg-logo="" tvg-chno="485" group-title="Filmes Diversos",Cinquenta Tons de Liberdade (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/cinquetatonsliberdade.mp4;
+#EXTINF:-1 tvg-id="id486" tvg-name="O Rei Leão (2019)" tvg-logo="" tvg-chno="486" group-title="Filmes Diversos",O Rei Leão (2019)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/reileao2019.mp4;
+#EXTINF:-1 tvg-id="id487" tvg-name="Cinquenta Tons de Cinza (2015)" tvg-logo="" tvg-chno="487" group-title="Filmes Diversos",Cinquenta Tons de Cinza (2015)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/cinquentatonsdecinza.mp4;
+#EXTINF:-1 tvg-id="id488" tvg-name="Homem-Aranha no Aranhaverso (2018)" tvg-logo="" tvg-chno="488" group-title="Filmes Diversos",Homem-Aranha no Aranhaverso (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/aranhaverso-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id489" tvg-name="Era uma vez um Deadpool (2018)" tvg-logo="" tvg-chno="489" group-title="Filmes Diversos",Era uma vez um Deadpool (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/eraumavezumdeadpool.mp4;
+#EXTINF:-1 tvg-id="id490" tvg-name="WiFi Ralph – Quebrando a Internet (2018)" tvg-logo="" tvg-chno="490" group-title="Filmes Diversos",WiFi Ralph – Quebrando a Internet (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/wifiralph.mp4;
+#EXTINF:-1 tvg-id="id491" tvg-name="It: A Coisa (2017)" tvg-logo="" tvg-chno="491" group-title="Filmes Diversos",It: A Coisa (2017)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/it-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id492" tvg-name="Jurassic World: Reino Ameaçado (2018)" tvg-logo="" tvg-chno="492" group-title="Filmes Diversos",Jurassic World: Reino Ameaçado (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/jurassicreino.mp4;
+#EXTINF:-1 tvg-id="id493" tvg-name="Venom (2018)" tvg-logo="" tvg-chno="493" group-title="Filmes Diversos",Venom (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/venom-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id494" tvg-name="A Barraca do Beijo (2018)" tvg-logo="" tvg-chno="494" group-title="Filmes Diversos",A Barraca do Beijo (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/abarracadobeijo-leg-720p.mp4;
+#EXTINF:-1 tvg-id="id495" tvg-name="Deadpool 2 (2018)" tvg-logo="" tvg-chno="495" group-title="Filmes Diversos",Deadpool 2 (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/deadpool2novo-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id496" tvg-name="O Touro Ferdinando (2017)" tvg-logo="" tvg-chno="496" group-title="Filmes Diversos",O Touro Ferdinando (2017)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/ferdinand-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id497" tvg-name="Bumblebee (2018)" tvg-logo="" tvg-chno="497" group-title="Filmes Diversos",Bumblebee (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/buumblebee-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id498" tvg-name="Mulher-Maravilha (2017)" tvg-logo="" tvg-chno="498" group-title="Filmes Diversos",Mulher-Maravilha (2017)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/mulhermaravilha2017.mp4;
+#EXTINF:-1 tvg-id="id499" tvg-name="Megatubarão (2018)" tvg-logo="" tvg-chno="499" group-title="Filmes Diversos",Megatubarão (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cinefilmes.online/check.php?url=server1/megatubarao.mp4;
+#EXTINF:-1 tvg-id="id500" tvg-name="Carros 3 (2017)" tvg-logo="" tvg-chno="500" group-title="Filmes Diversos",Carros 3 (2017)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/carros3-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id501" tvg-name="Máquinas Mortais (2018)" tvg-logo="" tvg-chno="501" group-title="Filmes Diversos",Máquinas Mortais (2018)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/corridasmortais-dub-480p.mp4;
+#EXTINF:-1 tvg-id="id502" tvg-name="Thor: Ragnarok (2017)" tvg-logo="" tvg-chno="502" group-title="Filmes Diversos",Thor: Ragnarok (2017)
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://cwabe.azureedge.net/movies/thorrag-dub-720p.mp4;
+#EXTINF:-1 tvg-id="id503" tvg-name="BIS *" tvg-logo="" tvg-chno="503" group-title="Variedade e Músicas",BIS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/56.m3u8;
+#EXTINF:-1 tvg-id="id504" tvg-name="GNT *" tvg-logo="" tvg-chno="504" group-title="Variedade e Músicas",GNT *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/375.m3u8;
+#EXTINF:-1 tvg-id="id505" tvg-name="MAIS GLOBOSAT *" tvg-logo="" tvg-chno="505" group-title="Variedade e Músicas",MAIS GLOBOSAT *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/439.m3u8;
+#EXTINF:-1 tvg-id="id506" tvg-name="MTV *" tvg-logo="" tvg-chno="506" group-title="Variedade e Músicas",MTV *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/465.m3u8;
+#EXTINF:-1 tvg-id="id507" tvg-name="MULTISHOW HD *" tvg-logo="" tvg-chno="507" group-title="Variedade e Músicas",MULTISHOW HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/475.m3u8;
+#EXTINF:-1 tvg-id="id508" tvg-name="MULTISHOW *" tvg-logo="" tvg-chno="508" group-title="Variedade e Músicas",MULTISHOW *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/471.m3u8;
+#EXTINF:-1 tvg-id="id509" tvg-name="MUSIC BOX BRAZIL *" tvg-logo="" tvg-chno="509" group-title="Variedade e Músicas",MUSIC BOX BRAZIL *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/478.m3u8;
+#EXTINF:-1 tvg-id="id510" tvg-name="VH1 MEGAHITS *" tvg-logo="" tvg-chno="510" group-title="Variedade e Músicas",VH1 MEGAHITS *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/749.m3u8;
+#EXTINF:-1 tvg-id="id511" tvg-name="VIVA HD *" tvg-logo="" tvg-chno="511" group-title="Variedade e Músicas",VIVA HD *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/750.m3u8;
+#EXTINF:-1 tvg-id="id512" tvg-name="VIVA *" tvg-logo="" tvg-chno="512" group-title="Variedade e Músicas",VIVA *
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/751.m3u8;
+#EXTINF:-1 tvg-id="id513" tvg-name="Gospel Music TV" tvg-logo="" tvg-chno="513" group-title="Variedade e Músicas",Gospel Music TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?ISAQUE;
+#EXTINF:-1 tvg-id="id514" tvg-name="Gospel Movies Television" tvg-logo="" tvg-chno="514" group-title="Variedade e Músicas",Gospel Movies Television
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8;
+#EXTINF:-1 tvg-id="id515" tvg-name="Ideal TV" tvg-logo="" tvg-chno="515" group-title="Variedade e Músicas",Ideal TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv3.srvstm.com:1935/tvideal/tvideal/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id516" tvg-name="Heart TV" tvg-logo="" tvg-chno="516" group-title="Variedade e Músicas",Heart TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id517" tvg-name="Top TV" tvg-logo="" tvg-chno="517" group-title="Variedade e Músicas",Top TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://sateg.cdnseguro.com/democel/democel/playlist.m3u8;
+#EXTINF:-1 tvg-id="id518" tvg-name="Polishop" tvg-logo="" tvg-chno="518" group-title="Variedade e Músicas",Polishop
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://mm4td7.cloud.influxis.com:80/mm4td7_live/_definst_/polishoptv/index.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id519" tvg-name="Shoptime" tvg-logo="" tvg-chno="519" group-title="Variedade e Músicas",Shoptime
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id520" tvg-name="Gospel Music TV" tvg-logo="" tvg-chno="520" group-title="Variedade e Músicas",Gospel Music TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id521" tvg-name="Hit TV" tvg-logo="" tvg-chno="521" group-title="Variedade e Músicas",Hit TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id522" tvg-name="H!T Music Channel" tvg-logo="" tvg-chno="522" group-title="Variedade e Músicas",H!T Music Channel
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id523" tvg-name="RioLive HD" tvg-logo="" tvg-chno="523" group-title="Variedade e Músicas",RioLive HD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://api.new.livestream.com/accounts/15418920/events/5958349/live.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id524" tvg-name="Mega TV" tvg-logo="" tvg-chno="524" group-title="Variedade e Músicas",Mega TV
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id525" tvg-name="Gospel Movies Television" tvg-logo="" tvg-chno="525" group-title="Variedade e Músicas",Gospel Movies Television
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id526" tvg-name="Gospel Music Television" tvg-logo="" tvg-chno="526" group-title="Variedade e Músicas",Gospel Music Television
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id527" tvg-name="SB4" tvg-logo="" tvg-chno="527" group-title="Variedade e Músicas",SB4
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://media.az-mediaserver.com:1935/7120/7120/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id528" tvg-name="G2P" tvg-logo="" tvg-chno="528" group-title="Variedade e Músicas",G2P
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id529" tvg-name="TV União" tvg-logo="" tvg-chno="529" group-title="Variedade e Músicas",TV União
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv1.srvstm.com:1935/tvuniao/tvuniao/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id530" tvg-name="TV Estúdio Brasil" tvg-logo="" tvg-chno="530" group-title="Variedade e Músicas",TV Estúdio Brasil
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stmv2.srvstm.com:1935/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?PEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id531" tvg-name="Music Box Gold" tvg-logo="" tvg-chno="531" group-title="Variedade e Músicas",Music Box Gold
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://musicbox.cdnvideo.ru:1935/musicbox/musicboxtv.sdp/playlist.m3u8;
+#EXTINF:-1 tvg-id="id532" tvg-name="Rádio Girassol BH" tvg-logo="" tvg-chno="532" group-title="Radios",Rádio Girassol BH
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stm16.conectastm.com:16418/live;
+#EXTINF:-1 tvg-id="id533" tvg-name="Rádio Girassol BH" tvg-logo="" tvg-chno="533" group-title="Radios",Rádio Girassol BH
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stm16.conectastm.com:16418/live;
+#EXTINF:-1 tvg-id="id534" tvg-name="Rádio 92.3 - São Luís" tvg-logo="" tvg-chno="534" group-title="Radios",Rádio 92.3 - São Luís
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://06.stmip.net:7164/;;
+#EXTINF:-1 tvg-id="id535" tvg-name="Rádio Gospel Campinas" tvg-logo="" tvg-chno="535" group-title="Radios",Rádio Gospel Campinas
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://centova.nardele.com.br:4343/;;
+#EXTINF:-1 tvg-id="id536" tvg-name="Rádio Fonte Viva" tvg-logo="" tvg-chno="536" group-title="Radios",Rádio Fonte Viva
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming23.hstbr.net/player/radiofonteviva;
+#EXTINF:-1 tvg-id="id537" tvg-name="Rádio Sol Nascente" tvg-logo="" tvg-chno="537" group-title="Radios",Rádio Sol Nascente
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://centova3.fm5.com.br:5631/stream;
+#EXTINF:-1 tvg-id="id538" tvg-name="Rádio Betel FM - 87.9 FM" tvg-logo="" tvg-chno="538" group-title="Radios",Rádio Betel FM - 87.9 FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://str10.hostgator.com.br:6008/;stream/1;
+#EXTINF:-1 tvg-id="id539" tvg-name="Rádio Melodia FM 97.5" tvg-logo="" tvg-chno="539" group-title="Radios",Rádio Melodia FM 97.5
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stm38.srvstm.com:31010/;;
+#EXTINF:-1 tvg-id="id540" tvg-name="Jovem Gospel Brasil" tvg-logo="" tvg-chno="540" group-title="Radios",Jovem Gospel Brasil
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stm50.srvstm.com:8752/stream.mp3;
+#EXTINF:-1 tvg-id="id541" tvg-name="Novo Som Gospel" tvg-logo="" tvg-chno="541" group-title="Radios",Novo Som Gospel
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stm2.srvstm.com:16426/stream;
+#EXTINF:-1 tvg-id="id542" tvg-name="Rádio Perfeito Louvor" tvg-logo="" tvg-chno="542" group-title="Radios",Rádio Perfeito Louvor
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://perfeitolouvor.com.br:8000/stream;
+#EXTINF:-1 tvg-id="id543" tvg-name="Rádio Vida FM 104.9" tvg-logo="" tvg-chno="543" group-title="Radios",Rádio Vida FM 104.9
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://servidor31.brlogic.com:8604/live;
+#EXTINF:-1 tvg-id="id544" tvg-name="Band FM Floripa" tvg-logo="" tvg-chno="544" group-title="Radios",Band FM Floripa
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://186.209.115.82:8086/;?1452910343660.mp3;
+#EXTINF:-1 tvg-id="id545" tvg-name="Mix FM" tvg-logo="" tvg-chno="545" group-title="Radios",Mix FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://mixaac.crossradio.com.br:1100/live;
+#EXTINF:-1 tvg-id="id546" tvg-name="CBN" tvg-logo="" tvg-chno="546" group-title="Radios",CBN
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://201.7.179.194/CBNRD/cbnsp.sdp/playlist.m3u8;
+#EXTINF:-1 tvg-id="id547" tvg-name="CBN Salvador" tvg-logo="" tvg-chno="547" group-title="Radios",CBN Salvador
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://sh1.upx.com.br:8100/;
+#EXTINF:-1 tvg-id="id548" tvg-name="Cidade FM" tvg-logo="" tvg-chno="548" group-title="Radios",Cidade FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://www.radioideal.net:8010/;stream/1;
+#EXTINF:-1 tvg-id="id549" tvg-name="Clube FM" tvg-logo="" tvg-chno="549" group-title="Radios",Clube FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://5940.live.upx.net.br:9082;
+#EXTINF:-1 tvg-id="id550" tvg-name="Clube Fm Curitiba" tvg-logo="" tvg-chno="550" group-title="Radios",Clube Fm Curitiba
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://200.192.112.45:8000/clubefm.mp3;
+#EXTINF:-1 tvg-id="id551" tvg-name="Coca Cola FM" tvg-logo="" tvg-chno="551" group-title="Radios",Coca Cola FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein;
+#EXTINF:-1 tvg-id="id552" tvg-name="Difusora AM" tvg-logo="" tvg-chno="552" group-title="Radios",Difusora AM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://tr.fabricahost.com.br:8202/;
+#EXTINF:-1 tvg-id="id553" tvg-name="ESTAÇÃO 104 FM RJ" tvg-logo="" tvg-chno="553" group-title="Radios",ESTAÇÃO 104 FM RJ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://noasrv.caster.fm:10127/stream;
+#EXTINF:-1 tvg-id="id554" tvg-name="Gazeta" tvg-logo="" tvg-chno="554" group-title="Radios",Gazeta
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://209.126.127.123:8177/live;
+#EXTINF:-1 tvg-id="id555" tvg-name="Gazeta AM" tvg-logo="" tvg-chno="555" group-title="Radios",Gazeta AM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://209.126.127.123:8083/live;
+#EXTINF:-1 tvg-id="id556" tvg-name="Guaruja FM" tvg-logo="" tvg-chno="556" group-title="Radios",Guaruja FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://painel.localmidia.com.br:8038/aovivo?type=.flv;
+#EXTINF:-1 tvg-id="id557" tvg-name="Kids" tvg-logo="" tvg-chno="557" group-title="Radios",Kids
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.150.31:9431/stream;
+#EXTINF:-1 tvg-id="id558" tvg-name="MPB" tvg-logo="" tvg-chno="558" group-title="Radios",MPB
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.150.31:8775/stream;
+#EXTINF:-1 tvg-id="id559" tvg-name="Bossa Nova" tvg-logo="" tvg-chno="559" group-title="Radios",Bossa Nova
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9974/stream;
+#EXTINF:-1 tvg-id="id560" tvg-name="Pagode" tvg-logo="" tvg-chno="560" group-title="Radios",Pagode
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9061/stream;
+#EXTINF:-1 tvg-id="id561" tvg-name="Anos 2000" tvg-logo="" tvg-chno="561" group-title="Radios",Anos 2000
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9940/stream;
+#EXTINF:-1 tvg-id="id562" tvg-name="Rock Clássico" tvg-logo="" tvg-chno="562" group-title="Radios",Rock Clássico
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.150.31:9125/stream;
+#EXTINF:-1 tvg-id="id563" tvg-name="Lounge" tvg-logo="" tvg-chno="563" group-title="Radios",Lounge
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9064/stream;
+#EXTINF:-1 tvg-id="id564" tvg-name="Pop Rock" tvg-logo="" tvg-chno="564" group-title="Radios",Pop Rock
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:8016/stream;
+#EXTINF:-1 tvg-id="id565" tvg-name="Românticas" tvg-logo="" tvg-chno="565" group-title="Radios",Românticas
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.150.31:8962/stream;
+#EXTINF:-1 tvg-id="id566" tvg-name="Rap Nacional" tvg-logo="" tvg-chno="566" group-title="Radios",Rap Nacional
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://192.99.150.31:8377/stream;
+#EXTINF:-1 tvg-id="id567" tvg-name="Festa" tvg-logo="" tvg-chno="567" group-title="Radios",Festa
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9070/stream;
+#EXTINF:-1 tvg-id="id568" tvg-name="Música Clássica" tvg-logo="" tvg-chno="568" group-title="Radios",Música Clássica
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9970/stream;
+#EXTINF:-1 tvg-id="id569" tvg-name="New Rock" tvg-logo="" tvg-chno="569" group-title="Radios",New Rock
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:8028/stream;
+#EXTINF:-1 tvg-id="id570" tvg-name="Pop Hits" tvg-logo="" tvg-chno="570" group-title="Radios",Pop Hits
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9046/stream;
+#EXTINF:-1 tvg-id="id571" tvg-name="Metal" tvg-logo="" tvg-chno="571" group-title="Radios",Metal
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9898/stream;
+#EXTINF:-1 tvg-id="id572" tvg-name="Trilhas Sonoras" tvg-logo="" tvg-chno="572" group-title="Radios",Trilhas Sonoras
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://6d9a.webradio.upx.net.br:9896/stream;
+#EXTINF:-1 tvg-id="id573" tvg-name="Vibe" tvg-logo="" tvg-chno="573" group-title="Radios",Vibe
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8;
+#EXTINF:-1 tvg-id="id574" tvg-name="Funk" tvg-logo="" tvg-chno="574" group-title="Radios",Funk
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8;
+#EXTINF:-1 tvg-id="id575" tvg-name="Sertanejo Hits" tvg-logo="" tvg-chno="575" group-title="Radios",Sertanejo Hits
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8;
+#EXTINF:-1 tvg-id="id576" tvg-name="Pagode" tvg-logo="" tvg-chno="576" group-title="Radios",Pagode
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8;
+#EXTINF:-1 tvg-id="id577" tvg-name="Vibe FM" tvg-logo="" tvg-chno="577" group-title="Radios",Vibe FM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://servidor36.brlogic.com:8180/live;
+#EXTINF:-1 tvg-id="id578" tvg-name="Animais África do Sul" tvg-logo="" tvg-chno="578" group-title="Câmeras",Animais África do Sul
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id579" tvg-name="Rio de Janeiro - Copacabana" tvg-logo="" tvg-chno="579" group-title="Câmeras",Rio de Janeiro - Copacabana
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id580" tvg-name="Aeroporto de Congonhas de São Paulo" tvg-logo="" tvg-chno="580" group-title="Câmeras",Aeroporto de Congonhas de São Paulo
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id581" tvg-name="Ubatuba - Praia Enseaba" tvg-logo="" tvg-chno="581" group-title="Câmeras",Ubatuba - Praia Enseaba
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id582" tvg-name="Arena Allianz Parque - Palestra Itália" tvg-logo="" tvg-chno="582" group-title="Câmeras",Arena Allianz Parque - Palestra Itália
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id583" tvg-name="Av. Interlagos - Shopping Interlagos" tvg-logo="" tvg-chno="583" group-title="Câmeras",Av. Interlagos - Shopping Interlagos
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id584" tvg-name="Marginal Pinheiros Trânsito" tvg-logo="" tvg-chno="584" group-title="Câmeras",Marginal Pinheiros Trânsito
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id585" tvg-name="Pico do gavião - Andradas MG" tvg-logo="" tvg-chno="585" group-title="Câmeras",Pico do gavião - Andradas MG
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id586" tvg-name="Estúdio 102 FM Itajaí - SC" tvg-logo="" tvg-chno="586" group-title="Câmeras",Estúdio 102 FM Itajaí - SC
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id587" tvg-name="Estúdio 90.5 FM São Paulo - SP" tvg-logo="" tvg-chno="587" group-title="Câmeras",Estúdio 90.5 FM São Paulo - SP
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id588" tvg-name="Estúdio 91.7 FM Cascavel - PR" tvg-logo="" tvg-chno="588" group-title="Câmeras",Estúdio 91.7 FM Cascavel - PR
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id589" tvg-name="Estúdio 96.5 FM Rio de Janeiro - RJ" tvg-logo="" tvg-chno="589" group-title="Câmeras",Estúdio 96.5 FM Rio de Janeiro - RJ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id590" tvg-name="Estúdio 100.5 FM Rio de Janeiro - RJ" tvg-logo="" tvg-chno="590" group-title="Câmeras",Estúdio 100.5 FM Rio de Janeiro - RJ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id591" tvg-name="Estúdio 90.3 FM Recife - PE" tvg-logo="" tvg-chno="591" group-title="Câmeras",Estúdio 90.3 FM Recife - PE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://evpp.mm.uol.com.br:1935/ne10/ne10-radiojornal-recife-video-web.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id592" tvg-name="Novo Templo da Igreja da Graça - SP" tvg-logo="" tvg-chno="592" group-title="Câmeras",Novo Templo da Igreja da Graça - SP
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id593" tvg-name="Santuário de Aparecida - Altar Central" tvg-logo="" tvg-chno="593" group-title="Câmeras",Santuário de Aparecida - Altar Central
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS;
+#EXTINF:-1 tvg-id="id594" tvg-name="24H - OS SIMPSONS" tvg-logo="" tvg-chno="594" group-title="Desenhos 24hs",24H - OS SIMPSONS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/1.m3u8;
+#EXTINF:-1 tvg-id="id595" tvg-name="24H - A PANTERA COR DE ROSA" tvg-logo="" tvg-chno="595" group-title="Desenhos 24hs",24H - A PANTERA COR DE ROSA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/863.m3u8;
+#EXTINF:-1 tvg-id="id596" tvg-name="24H - APENAS UM SHOW" tvg-logo="" tvg-chno="596" group-title="Desenhos 24hs",24H - APENAS UM SHOW
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/864.m3u8;
+#EXTINF:-1 tvg-id="id597" tvg-name="24H - ARMAÇÃO ILIMITADA" tvg-logo="" tvg-chno="597" group-title="Desenhos 24hs",24H - ARMAÇÃO ILIMITADA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/865.m3u8;
+#EXTINF:-1 tvg-id="id598" tvg-name="24H - CAPITÃO PLANETA" tvg-logo="" tvg-chno="598" group-title="Desenhos 24hs",24H - CAPITÃO PLANETA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/866.m3u8;
+#EXTINF:-1 tvg-id="id599" tvg-name="24H - CHANGEMAN" tvg-logo="" tvg-chno="599" group-title="Desenhos 24hs",24H - CHANGEMAN
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/867.m3u8;
+#EXTINF:-1 tvg-id="id600" tvg-name="24H - CHAVES" tvg-logo="" tvg-chno="600" group-title="Desenhos 24hs",24H - CHAVES
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/868.m3u8;
+#EXTINF:-1 tvg-id="id601" tvg-name="24H - CORRIDA MALUCA" tvg-logo="" tvg-chno="601" group-title="Desenhos 24hs",24H - CORRIDA MALUCA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/869.m3u8;
+#EXTINF:-1 tvg-id="id602" tvg-name="24H - HE-MAN" tvg-logo="" tvg-chno="602" group-title="Desenhos 24hs",24H - HE-MAN
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/870.m3u8;
+#EXTINF:-1 tvg-id="id603" tvg-name="24H - JASPION" tvg-logo="" tvg-chno="603" group-title="Desenhos 24hs",24H - JASPION
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/871.m3u8;
+#EXTINF:-1 tvg-id="id604" tvg-name="24H - CAVALO DE FOGO" tvg-logo="" tvg-chno="604" group-title="Desenhos 24hs",24H - CAVALO DE FOGO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/872.m3u8;
+#EXTINF:-1 tvg-id="id605" tvg-name="24H - DRAGON BALL SUPER" tvg-logo="" tvg-chno="605" group-title="Desenhos 24hs",24H - DRAGON BALL SUPER
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/873.m3u8;
+#EXTINF:-1 tvg-id="id606" tvg-name="24H A Turma Da Monica" tvg-logo="" tvg-chno="606" group-title="Desenhos 24hs",24H A Turma Da Monica
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/886.m3u8;
+#EXTINF:-1 tvg-id="id607" tvg-name="24H Animaniacs" tvg-logo="" tvg-chno="607" group-title="Desenhos 24hs",24H Animaniacs
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/887.m3u8;
+#EXTINF:-1 tvg-id="id608" tvg-name="24H Apenas um Show S02" tvg-logo="" tvg-chno="608" group-title="Desenhos 24hs",24H Apenas um Show S02
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/888.m3u8;
+#EXTINF:-1 tvg-id="id609" tvg-name="24H Aventuras de Tintim" tvg-logo="" tvg-chno="609" group-title="Desenhos 24hs",24H Aventuras de Tintim
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/889.m3u8;
+#EXTINF:-1 tvg-id="id610" tvg-name="24H Bob Esponja S01 E S02" tvg-logo="" tvg-chno="610" group-title="Desenhos 24hs",24H Bob Esponja S01 E S02
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/890.m3u8;
+#EXTINF:-1 tvg-id="id611" tvg-name="24H Bob Esponja S03 E S04" tvg-logo="" tvg-chno="611" group-title="Desenhos 24hs",24H Bob Esponja S03 E S04
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/891.m3u8;
+#EXTINF:-1 tvg-id="id612" tvg-name="24H Bob Zoom" tvg-logo="" tvg-chno="612" group-title="Desenhos 24hs",24H Bob Zoom
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/892.m3u8;
+#EXTINF:-1 tvg-id="id613" tvg-name="24H Bob Esponja S05 E S06" tvg-logo="" tvg-chno="613" group-title="Desenhos 24hs",24H Bob Esponja S05 E S06
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/893.m3u8;
+#EXTINF:-1 tvg-id="id614" tvg-name="24H Cavaleiros do Zodiaco 2 12 Casas" tvg-logo="" tvg-chno="614" group-title="Desenhos 24hs",24H Cavaleiros do Zodiaco 2 12 Casas
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/894.m3u8;
+#EXTINF:-1 tvg-id="id615" tvg-name="24H Cavaleiros do Zodiaco 4 Poseidon" tvg-logo="" tvg-chno="615" group-title="Desenhos 24hs",24H Cavaleiros do Zodiaco 4 Poseidon
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/895.m3u8;
+#EXTINF:-1 tvg-id="id616" tvg-name="24H Cavaleiros Do Zodiaco 1 Santuario" tvg-logo="" tvg-chno="616" group-title="Desenhos 24hs",24H Cavaleiros Do Zodiaco 1 Santuario
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/896.m3u8;
+#EXTINF:-1 tvg-id="id617" tvg-name="24H Chapolin S01" tvg-logo="" tvg-chno="617" group-title="Desenhos 24hs",24H Chapolin S01
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/897.m3u8;
+#EXTINF:-1 tvg-id="id618" tvg-name="24H Cavaleiros do Zodiaco 3 Asgard" tvg-logo="" tvg-chno="618" group-title="Desenhos 24hs",24H Cavaleiros do Zodiaco 3 Asgard
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/898.m3u8;
+#EXTINF:-1 tvg-id="id619" tvg-name="24H Cavaleiros Do Zodiaco 8 Netflix" tvg-logo="" tvg-chno="619" group-title="Desenhos 24hs",24H Cavaleiros Do Zodiaco 8 Netflix
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/899.m3u8;
+#EXTINF:-1 tvg-id="id620" tvg-name="24H Futurama S01 e S02" tvg-logo="" tvg-chno="620" group-title="Desenhos 24hs",24H Futurama S01 e S02
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/916.m3u8;
+#EXTINF:-1 tvg-id="id621" tvg-name="24H Jiraya" tvg-logo="" tvg-chno="621" group-title="Desenhos 24hs",24H Jiraya
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/917.m3u8;
+#EXTINF:-1 tvg-id="id622" tvg-name="24H Naruto S07 S08 S09" tvg-logo="" tvg-chno="622" group-title="Desenhos 24hs",24H Naruto S07 S08 S09
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/920.m3u8;
+#EXTINF:-1 tvg-id="id623" tvg-name="24H Os Jetsons" tvg-logo="" tvg-chno="623" group-title="Desenhos 24hs",24H Os Jetsons
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/921.m3u8;
+#EXTINF:-1 tvg-id="id624" tvg-name="24H Operação Big Hero" tvg-logo="" tvg-chno="624" group-title="Desenhos 24hs",24H Operação Big Hero
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/922.m3u8;
+#EXTINF:-1 tvg-id="id625" tvg-name="24H O Ãlbum da Grande Familia" tvg-logo="" tvg-chno="625" group-title="Desenhos 24hs",24H O Ãlbum da Grande Familia
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/923.m3u8;
+#EXTINF:-1 tvg-id="id626" tvg-name="24H O Poderoso Chefinho" tvg-logo="" tvg-chno="626" group-title="Desenhos 24hs",24H O Poderoso Chefinho
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/924.m3u8;
+#EXTINF:-1 tvg-id="id627" tvg-name="24H Naruto Shippuden Part2" tvg-logo="" tvg-chno="627" group-title="Desenhos 24hs",24H Naruto Shippuden Part2
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/925.m3u8;
+#EXTINF:-1 tvg-id="id628" tvg-name="24H Naruto Shippuden Part1" tvg-logo="" tvg-chno="628" group-title="Desenhos 24hs",24H Naruto Shippuden Part1
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/926.m3u8;
+#EXTINF:-1 tvg-id="id629" tvg-name="24H Gasparzinho e seus Amigos" tvg-logo="" tvg-chno="629" group-title="Desenhos 24hs",24H Gasparzinho e seus Amigos
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/927.m3u8;
+#EXTINF:-1 tvg-id="id630" tvg-name="24H Naruto S04 S05 S06" tvg-logo="" tvg-chno="630" group-title="Desenhos 24hs",24H Naruto S04 S05 S06
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/928.m3u8;
+#EXTINF:-1 tvg-id="id631" tvg-name="24H Os Normais" tvg-logo="" tvg-chno="631" group-title="Desenhos 24hs",24H Os Normais
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/929.m3u8;
+#EXTINF:-1 tvg-id="id632" tvg-name="24H Pj Masks Herois de Pijama" tvg-logo="" tvg-chno="632" group-title="Desenhos 24hs",24H Pj Masks Herois de Pijama
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/930.m3u8;
+#EXTINF:-1 tvg-id="id633" tvg-name="24H Rick and Morty" tvg-logo="" tvg-chno="633" group-title="Desenhos 24hs",24H Rick and Morty
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/931.m3u8;
+#EXTINF:-1 tvg-id="id634" tvg-name="24H She Ra" tvg-logo="" tvg-chno="634" group-title="Desenhos 24hs",24H She Ra
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/932.m3u8;
+#EXTINF:-1 tvg-id="id635" tvg-name="24H Popeye" tvg-logo="" tvg-chno="635" group-title="Desenhos 24hs",24H Popeye
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/933.m3u8;
+#EXTINF:-1 tvg-id="id636" tvg-name="24H Sailor Moon" tvg-logo="" tvg-chno="636" group-title="Desenhos 24hs",24H Sailor Moon
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/934.m3u8;
+#EXTINF:-1 tvg-id="id637" tvg-name="24H Paradise PD" tvg-logo="" tvg-chno="637" group-title="Desenhos 24hs",24H Paradise PD
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/935.m3u8;
+#EXTINF:-1 tvg-id="id638" tvg-name="24H Sonic Boom" tvg-logo="" tvg-chno="638" group-title="Desenhos 24hs",24H Sonic Boom
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/936.m3u8;
+#EXTINF:-1 tvg-id="id639" tvg-name="CARTOON NETWORK DUAL" tvg-logo="" tvg-chno="639" group-title="Desenhos 24hs",CARTOON NETWORK DUAL
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/937.m3u8;
+#EXTINF:-1 tvg-id="id640" tvg-name="24H - UM MALUCO NO PEDAÇO" tvg-logo="" tvg-chno="640" group-title="Desenhos 24hs",24H - UM MALUCO NO PEDAÇO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/938.m3u8;
+#EXTINF:-1 tvg-id="id641" tvg-name="24H - TV PIRATA" tvg-logo="" tvg-chno="641" group-title="Desenhos 24hs",24H - TV PIRATA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/939.m3u8;
+#EXTINF:-1 tvg-id="id642" tvg-name="24H LIGA DA JUSTIÇA JOVEM" tvg-logo="" tvg-chno="642" group-title="Desenhos 24hs",24H LIGA DA JUSTIÇA JOVEM
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/940.m3u8;
+#EXTINF:-1 tvg-id="id643" tvg-name="24H MACGYVER" tvg-logo="" tvg-chno="643" group-title="Desenhos 24hs",24H MACGYVER
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/941.m3u8;
+#EXTINF:-1 tvg-id="id644" tvg-name="24H NINJA JIRAYA" tvg-logo="" tvg-chno="644" group-title="Desenhos 24hs",24H NINJA JIRAYA
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/942.m3u8;
+#EXTINF:-1 tvg-id="id645" tvg-name="24H O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="" tvg-chno="645" group-title="Desenhos 24hs",24H O FANTÁSTICO MUNDO DE BOBBY
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/943.m3u8;
+#EXTINF:-1 tvg-id="id646" tvg-name="24H OS FLINTSTONES" tvg-logo="" tvg-chno="646" group-title="Desenhos 24hs",24H OS FLINTSTONES
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/944.m3u8;
+#EXTINF:-1 tvg-id="id647" tvg-name="24H OS NORMAIS" tvg-logo="" tvg-chno="647" group-title="Desenhos 24hs",24H OS NORMAIS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/945.m3u8;
+#EXTINF:-1 tvg-id="id648" tvg-name="24H - THUNDERCATS" tvg-logo="" tvg-chno="648" group-title="Desenhos 24hs",24H - THUNDERCATS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/946.m3u8;
+#EXTINF:-1 tvg-id="id649" tvg-name="24H - SUPER VICKY" tvg-logo="" tvg-chno="649" group-title="Desenhos 24hs",24H - SUPER VICKY
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/947.m3u8;
+#EXTINF:-1 tvg-id="id650" tvg-name="24H - SUPER AMIGOS" tvg-logo="" tvg-chno="650" group-title="Desenhos 24hs",24H - SUPER AMIGOS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/948.m3u8;
+#EXTINF:-1 tvg-id="id651" tvg-name="24H - SPEED RACER" tvg-logo="" tvg-chno="651" group-title="Desenhos 24hs",24H - SPEED RACER
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/949.m3u8;
+#EXTINF:-1 tvg-id="id652" tvg-name="24H - SNOOPY" tvg-logo="" tvg-chno="652" group-title="Desenhos 24hs",24H - SNOOPY
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/950.m3u8;
+#EXTINF:-1 tvg-id="id653" tvg-name="24H - SCOOBY DOO" tvg-logo="" tvg-chno="653" group-title="Desenhos 24hs",24H - SCOOBY DOO
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/951.m3u8;
+#EXTINF:-1 tvg-id="id654" tvg-name="24H - POWER RANGERS" tvg-logo="" tvg-chno="654" group-title="Desenhos 24hs",24H - POWER RANGERS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/952.m3u8;
+#EXTINF:-1 tvg-id="id655" tvg-name="24H - POPEYE" tvg-logo="" tvg-chno="655" group-title="Desenhos 24hs",24H - POPEYE
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/953.m3u8;
+#EXTINF:-1 tvg-id="id656" tvg-name="24H - PEPPA PIG" tvg-logo="" tvg-chno="656" group-title="Desenhos 24hs",24H - PEPPA PIG
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/954.m3u8;
+#EXTINF:-1 tvg-id="id657" tvg-name="24H - PATATI - PATATÁ" tvg-logo="" tvg-chno="657" group-title="Desenhos 24hs",24H - PATATI - PATATÁ
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/955.m3u8;
+#EXTINF:-1 tvg-id="id658" tvg-name="24H - OS TRAPALHÕES" tvg-logo="" tvg-chno="658" group-title="Desenhos 24hs",24H - OS TRAPALHÕES
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/956.m3u8;
+#EXTINF:-1 tvg-id="id659" tvg-name="24 - OS JETSONS" tvg-logo="" tvg-chno="659" group-title="Desenhos 24hs",24 - OS JETSONS
+#EXTVLCOPT:http-user-agent=4SEexRlEyeCboS/d4uFPhg==
+http://gamexit.in:8080/live/C4C9dFwqQEehbj/DUB5Ho9GmxI7/957.m3u8;
