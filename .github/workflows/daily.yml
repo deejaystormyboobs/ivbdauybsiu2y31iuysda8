@@ -17,6 +17,10 @@ jobs:
         uses: actions/setup-node@v1
         
       - name: Build
+        env:
+          URL: ${{ secrets.URL }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
+          PASSWORD: ${{ secrets.PASSWORD }}
         run: |
           npm install
           npm run build
