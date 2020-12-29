@@ -1,6 +1,7 @@
 name: 'daily'
-description: 'Daily'
 on:
+  push:
+    branches: main
   schedule:
     - cron:  '0 1,13 * * *'
 jobs:
