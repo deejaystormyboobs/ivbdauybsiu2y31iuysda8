@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { getData, generateA, generateB } = require('./z');
+const { getData, generateA, generateB, generateC } = require('./z');
 
 main();
 
@@ -15,4 +15,7 @@ async function main(){
     let txtB = await generateB(data);
     fs.writeFileSync('build/173.m3u8', txtB);
     fs.writeFileSync('build/173.m3u8.txt', txtB);
+
+    let txtC = await generateC(data);
+    fs.writeFileSync('build/391.json', txtC);
 }
